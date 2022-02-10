@@ -19,13 +19,23 @@
       url: https://memewarrior.net/
       target: _blank
     - title: Trump Twitter Archive V2
-      url: https://memewarrior.net/
+      url: https://www.thetrumparchive.com/
       target: _blank
   
 - title: Qmap
   url: /Qmap.html
+  
 - title: QAJF
   url: /qajf.html
+  sublinks:
+    - title: History
+      url: /history.html
+    - title: okabaeri9111
+      url: /okabaeri9111.html
+    - title: QAJFレッドピルニュース
+      url: https://qajf.officialblog.jp/
+      target: _blank
+    
 - title: Radio
   url: /radio.html
 - title: LIVE
@@ -37,13 +47,12 @@
   url: Blog
 - title: "Link"
   url: link.html
+  sublinks:
+    - title: 海外サイト
+      url: /worldsite.html
+    - title: 便利ツール
+      url: /convinient.html
+   
 - title: "Contact"
   url: contact.html
-  sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+  
