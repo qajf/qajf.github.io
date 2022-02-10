@@ -1,13 +1,26 @@
-- title: About
-  url: /about.html
-- title: Team
-  url: /team.html
-- title: Contact
-  url: /contact.html
-- title: Store
-  url: /store.html
-- title: Support
-  url: /support.html
+- title: "Information"
+  url: /information.html
+  sublinks:
+    - title: "event"
+      url: /event.html
+- title: Q
+  url: /Q.html
+- title: Qmap
+  url: /Qmap.html
+- title: QAJF
+  url: /qajf.html
+- title: Radio
+  url: /radio.html
+- title: "LIVE"
+    url: https://tarouxx7.wixsite.com/mysite
+- title: "Tools"
+    url: tools.html
+  - title: "Blog"
+    url: Blog
+  - title: "Link"
+    url: link.html
+  - title: "Contact"
+    url: contact.html
   sublinks:
     - title: FAQ
       url: /faq.html
