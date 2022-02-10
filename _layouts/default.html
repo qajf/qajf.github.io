@@ -1,5 +1,33 @@
-<title>
- {{ page.title }}
-</title>
-<!-- page.title = "こんにちは, 世界！" ->
-{{ content }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+      {% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+    <meta name="description" content="{% if page.desc %}{{ page.desc }}{% else %}{{ page.content | strip_html | truncate: 130 }}{% endif %}">
+
+    <!-- OGP の設定 -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:description" content="{% if page.desc %}{{ page.desc }}{% else %}{{ page.content | strip_html | truncate: 130 }}{% endif %}" />
+    <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ "/assets/images/ogp-image.png" | absolute_url }}{% endif %}" />
+
+    <!-- RSSフィード の指定 -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ "/feed.xml" | absolute_url }}" />
+
+    <!-- mvp.css https://andybrewer.github.io/mvp/ を利用します。 MITライセンスで公開されています。  -->
+    <link href="{{ "/mvp.css" | absolute_url }}" rel="stylesheet">
+  </head>
+  <body>
+    {% include _header.html %}
+
+    {{ content }}
+
+    {% include _footer.html %}
+  </body>
+</html>
