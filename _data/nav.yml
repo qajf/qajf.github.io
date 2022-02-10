@@ -1,7 +1,7 @@
-- title: "Information"
+- title: Information
   url: /information.html
   sublinks:
-    - title: "event"
+    - title: event
       url: /event.html
 - title: Q
   url: /Q.html
@@ -11,16 +11,16 @@
   url: /qajf.html
 - title: Radio
   url: /radio.html
-- title: "LIVE"
-    url: https://tarouxx7.wixsite.com/mysite
-- title: "Tools"
-    url: tools.html
-  - title: "Blog"
-    url: Blog
-  - title: "Link"
-    url: link.html
-  - title: "Contact"
-    url: contact.html
+- title: LIVE
+  url: https://tarouxx7.wixsite.com/mysite
+- title: Tools
+  url: tools.html
+- title: Blog
+  url: Blog
+- title: "Link"
+  url: link.html
+- title: "Contact"
+  url: contact.html
   sublinks:
     - title: FAQ
       url: /faq.html
