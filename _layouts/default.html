@@ -49,7 +49,7 @@
                 </li>
             {% else %}
                 <li class="{{ class }}">
-                    <a href="{{ link.url }}">{{ link.title }}</a>
+                    <a href="{{ link.url }}" target="{{target}}">{{ link.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}
