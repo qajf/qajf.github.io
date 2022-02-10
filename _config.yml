@@ -4,7 +4,7 @@ description: >- # サイトの説明を書く
   200文字程度がいいと一般には言われていたりします。
 
 baseurl: "" # ここは無視してOKです
-url: "https://<type-your-domain>" # サイトのドメインを入力します。
+url: "https://qajf.github.io" # サイトのドメインを入力します。
 
 plugins: # 使用するプラグインがあればここに追加します
   - jekyll-feed
