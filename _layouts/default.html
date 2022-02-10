@@ -34,14 +34,14 @@
             {% endif %}
             {% if link.sublinks %}
                 <li class="dropdown {{ class }}">
-                    <a href="{{ link.url }}" target="{{ target }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                    <a href="{{ link.url }}" target="{{ link.target }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         {% for sublink in link.sublinks %}
                             {% if sublink.title == 'separator' %}
                                 <li role="separator" class="divider"></li>
                             {% else %}
                                 <li>
-                                    <a href="{{ sublink.url }}" target="{{ target }}">{{ sublink.title }}</a>
+                                    <a href="{{ sublink.url }}" target="{{ sublink.target }}">{{ sublink.title }}</a>
                                 </li>
                             {% endif %}
                         {% endfor %}
