@@ -4,6 +4,7 @@ nav ul {
 }
 nav li {
     line-height: 30px;
+    float:left;
 }
 nav a {
     text-decoration: none;
