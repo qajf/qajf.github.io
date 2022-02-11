@@ -1,7 +1,4 @@
-<!-- Slider main container -->
-<div class="swiper">
-  <!-- Additional required wrapper -->
-  <div class="swiper-container">
+<div class="swiper-container">
   <div class="swiper-wrapper">
     <div class="swiper-slide">Slide 1</div>
     <div class="swiper-slide">Slide 2</div>
@@ -13,5 +10,4 @@
   <div class="swiper-button-next"></div>
   <div class="swiper-scrollbar"></div>
 </div>
-
 本日は晴天なり
