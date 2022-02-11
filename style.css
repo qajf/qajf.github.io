@@ -154,6 +154,7 @@ nav li.active a {
   top: 40px;
   left: -40px;
   position: absolute;
+  z-index:9999;
 }
 .nav li ul li {
   overflow: hidden;
