@@ -166,8 +166,11 @@ nav li.active a {
 
 }
 .nav > li:hover > a {/*layer-1*/
-  color: orange;
-  background: #afc6e2;
+  color: #fff;
+ /* background: #afc6e2; */
+  background: #8ECCB5;
+border-bottom:3px #ff0000;
+  
 }
 .nav > li li:hover > a {/*layer-2*/
   color: olive;
