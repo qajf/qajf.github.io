@@ -1,18 +1,22 @@
-<!-- スライダーのコンテナ -->
-<div class="swiper">
-<!-- 必要に応じたwrapper -->
-<div class="swiper-wrapper">
-<!-- スライド -->
-<div class="swiper-slide">Slide 1</div>
-<div class="swiper-slide">Slide 2</div>
-<div class="swiper-slide">Slide 3</div>
-</div>
-<!-- 必要に応じてページネーション -->
-<div class="swiper-pagination"></div>
-<!-- 必要に応じてナビボタン -->
-<div class="swiper-button-prev"></div>
-<div class="swiper-button-next"></div>
-</div>
+<div class="swiper mySwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">Slide 1</div>
+        <div class="swiper-slide">Slide 2</div>
+        <div class="swiper-slide">Slide 3</div>
+        <div class="swiper-slide">Slide 4</div>
+        <div class="swiper-slide">Slide 5</div>
+        <div class="swiper-slide">Slide 6</div>
+        <div class="swiper-slide">Slide 7</div>
+        <div class="swiper-slide">Slide 8</div>
+        <div class="swiper-slide">Slide 9</div>
+      </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
 本日は晴天なり
 <script>
       var swiper = new Swiper(".mySwiper", {
