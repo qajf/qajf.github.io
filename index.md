@@ -14,8 +14,7 @@
       <div class="swiper-button-prev"></div>
     </div>
 
-    <!-- Swiper JS -->
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+   
 
 本日は晴天なり
 <script>
