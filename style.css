@@ -23,6 +23,7 @@ header {
 
 header h1 {
   float:left;
+  font-family: 'Alata', sans-serif;
 }
 
 header h1 a {
