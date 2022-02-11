@@ -27,40 +27,8 @@
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
-    <header>
-     <div class="left">{% include _header.html %}</div> 
-    <nav id="navbar" class="collapse navbar-collapse">
-    <ul class="nav navbar-nav">
-        {% assign links = site.data.nav %}
-        {% for link in links %}
-            {% assign class = nil %}
-            {% if page.url contains link.url %}
-                {% assign class = 'active' %}
-            {% endif %}
-            {% if link.sublinks %}
-                <li class="dropdown {{ class }}">
-                    <a href="{{ link.url }}" target="{{ link.target }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        {% for sublink in link.sublinks %}
-                            {% if sublink.title == 'separator' %}
-                                <li role="separator" class="divider"></li>
-                            {% else %}
-                                <li>
-                                    <a href="{{ sublink.url }}" target="{{ sublink.target }}">{{ sublink.title }}</a>
-                                </li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
-                </li>
-            {% else %}
-                <li class="{{ class }}">
-                    <a href="{{ link.url }}" target="{{ link.target }}">{{ link.title }}</a>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-</nav>
-    </header>
+    {% include _header.html %} 
+    
     
     {% include nav.html nav=page.nav %}
    
