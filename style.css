@@ -115,18 +115,20 @@ nav li.active a {
   list-style: none;
 }
 .nav li a {
-  display: block;
- padding: 0 15px;
-  height: 40px;
-  text-align: center;
-  color: #fff;
-  font-size: 14px;
-  line-height: 2.8;
-  background: #9fb7d4;
-  transition: 0.5s;
-  text-decoration: none;
-  border-right: 1px solid #eee;
-  box-sizing: border-box;
+  
+    display: block;
+    padding: 0 20px;
+    height: 40px;
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+    line-height: 2.8;
+    /* background: #9fb7d4; */
+    transition: 0.5s;
+    text-decoration: none;
+    border-right: 1px solid #eee;
+    box-sizing: border-box;
+
 }
 .nav > li:hover > a {/*layer-1*/
   color: orange;
