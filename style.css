@@ -133,7 +133,7 @@ nav li.active a {
     /* background: #9fb7d4; */
     transition: 0.5s;
     text-decoration: none;
-    border-right: 1px solid #eee;
+    /* border-right: 1px solid #eee; */
     box-sizing: border-box;
 
 }
