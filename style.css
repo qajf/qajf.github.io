@@ -9,16 +9,14 @@ body {
 }
 
 header {
-  width: 100%;
-  height: 100px;
-  background: #b3d874;
-  padding-left: 30px;
-  padding-right: 30px;
-  box-sizing: border-box;
-  display: flex; /* flexboxを作る */
-  align-items: center; /* 上下中央に揃える */
-  /*justify-content: space-between;*/ /* 両端に配置 */
-  top: 0;
+   width: 1068px;
+    height: 100px;
+    box-sizing: border-box;
+   /* justify-content: space-between; */
+    top: 0;
+    margin: 0 auto;
+    height: 100px;
+   top: 0;
 }
 
 header h1 {
@@ -116,7 +114,7 @@ nav li.active a {
 }
 .nav li a {
   display: block;
-  width: 100px;
+ padding: 0 15px;
   height: 40px;
   text-align: center;
   color: #fff;
@@ -148,6 +146,8 @@ nav li.active a {
 }
 .nav li ul li a {
   border-top: 1px solid #eee;
+  padding: 0 20px;
+    width: 200px;
 }
 .nav li:hover > ul > li {
   overflow: visible;
