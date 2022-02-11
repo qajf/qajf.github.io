@@ -14,3 +14,11 @@
 <div class="swiper-button-next"></div>
 </div>
 本日は晴天なり
+<script>
+      var swiper = new Swiper(".mySwiper", {
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>
