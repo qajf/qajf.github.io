@@ -83,6 +83,13 @@ nav li.active a {
         float: none !important;
         margin-right: 0;
     }
+ 
+.navbar-collapse.collapse {
+    display: block!important;
+    height: auto!important;
+    padding-bottom: 0;
+    overflow: visible!important;
+}
 }
 #navigation #navbar .navbar-nav li a {
     color: #b2bbbd !important;
