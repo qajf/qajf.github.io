@@ -1,13 +1,11 @@
-<div class="swiper-container">
+<!-- スライダーのコンテナ -->
+<div class="swiper">
+  <!-- 必要に応じたwrapper -->
   <div class="swiper-wrapper">
+    <!-- スライド -->
     <div class="swiper-slide">Slide 1</div>
     <div class="swiper-slide">Slide 2</div>
     <div class="swiper-slide">Slide 3</div>
   </div>
-
-  <div class="swiper-pagination"></div>
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-button-next"></div>
-  <div class="swiper-scrollbar"></div>
 </div>
 本日は晴天なり
