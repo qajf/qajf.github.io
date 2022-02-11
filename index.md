@@ -9,3 +9,8 @@
    
 
 本日は晴天なり
+<script>
+  $(document).ready(function(){
+  $('.bxslider').bxSlider();
+});
+  </script>
