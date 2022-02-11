@@ -1,16 +1,11 @@
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
+<ul class="bxslider">
+  <li><img src="/images/pic1.jpg" /></li>
+  <li><img src="/images/pic2.jpg" /></li>
+  <li><img src="/images/pic3.jpg" /></li>
+  <li><img src="/images/pic4.jpg" /></li>
+</ul>
 
 
    
 
 本日は晴天なり
-<script>
-      var swiper = new Swiper(".mySwiper", {
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-        },
-      });
-    </script>
