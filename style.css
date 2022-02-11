@@ -24,6 +24,8 @@ header {
 header h1 {
   float:left;
   font-family: 'Alata', sans-serif;
+  font-size: 28px;
+    font-weight: 600;
 }
 
 header h1 a {
