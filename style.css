@@ -151,7 +151,7 @@ nav li.active a {
 .nav li ul li a {
   border-top: 1px solid #eee;
   padding: 0 20px;
-    width: 200px;
+    width: 230px;
 }
 .nav li:hover > ul > li {
   overflow: visible;
