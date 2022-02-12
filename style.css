@@ -40,6 +40,22 @@ header h1 a {
   font-size: 30px;
   text-decoration: none;
 }
+
+
+img{
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+.bx-wrapper{
+  border:none!important;
+  box-shadow: none!important;
+}
+.slider_box{
+  width: 100%;
+}
+
+
 .swiper--wrapper {
   /* wrapperのサイズを調整 */
   width: 100%;
