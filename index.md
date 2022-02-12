@@ -21,7 +21,7 @@ QAJFは、デモをはじめとする社会運動団体とは一切関係あり�
 また、QAJFがデモに関わっているかの様な誤解を与える画像等や発言を SNS・ブログ・ YouTube 等のコンテンツに掲載する事をお控えくださいますようお願い致します。
 誤解を与えるような掲載を見つけた場合は、隊員までお知らせください。
 
-</section>
+
 
 ### 21.9.4
 
@@ -36,6 +36,7 @@ More
 	<div style="width:80%;overflow:hidden;text-align:center;margin:0 auto;">
   <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/" height="560"></iframe>
   </div>
+	</section>
 QArmyJapanFlynnMovieTaskForceの動画は下記サイトに​ご用意しております
 
 BITCHUTEがメインですが、BITCHUTEQArmyJapanFlynnMovieTaskForceでアップできなかった動画を現在Odyseeにアップしています
