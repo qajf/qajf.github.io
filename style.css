@@ -46,12 +46,12 @@ header h1 a {
   height: 300px;
 }
 
-.bx-slider {
+.bxslider {
  
   position: relative;
   height: 100vh;
 }
-.bx-slider img {
+.bxslider img {
   position: absolute;
   top: 0;
   left: 0;
