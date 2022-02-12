@@ -23,6 +23,11 @@ header {
     margin-top: 20px;
 }
 
+section {
+  margin-left:5%;
+  margin-right:5%;
+}
+
 .h_left {
   float:left;
 }
