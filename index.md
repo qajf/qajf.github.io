@@ -45,6 +45,7 @@ BITCHUTE
 Odysee
 <p>BITCHUTE
 Odysee</p>
+<section>
 <h2 id="prologue">PROLOGUE</h2>
 <p>今の世の中 何だかおかしな事ばかりだと違和感を覚えている皆様。</p>
 
@@ -317,4 +318,4 @@ Eriさんは日本で唯一の Qmap 翻訳者です。</p>
 18:00
 &ZeroWidthSpace;22:00</p>
 
-
+</section>
