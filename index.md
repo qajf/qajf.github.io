@@ -9,7 +9,7 @@
 
 
 <section>	
-	<h2>INFORMATION</h2>  
+	<h2 class="has-text-align-center tle"><strong><span>INFORMATION</span></strong></h2>  
 	<h3>12022.1.3</h3>  
 
 	<p>最近、”Q” という文字を表記したデモ活動を予定している団体が見受けられます。</p>
@@ -50,7 +50,7 @@ Odysee
 Odysee</p>
 </section>
 <section>
-<h2 id="prologue">PROLOGUE</h2>
+<h2 class="has-text-align-center tle"><strong><span>PROLOGUE</span></strong></h2>
 <p>今の世の中 何だかおかしな事ばかりだと違和感を覚えている皆様。</p>
 
 <p>そろそろお目覚めの時間ですよ！</p>
@@ -66,7 +66,7 @@ Odysee</p>
 <p>Documents
 Telegram Channel
 RedPill News</p>
-<h2 id="what-is-q">What is Q？</h2>
+<h2 class="has-text-align-center tle"><strong><span>What is Q？</span></strong></h2>
 <p>本当のことをお伝えしよう</p>
 
 <p>誰もまだ”Q”を定義できない状況だ</p>
@@ -89,7 +89,7 @@ RedPill News</p>
 What is Qmovement？
 What is 8kun？
 Learn more</p>
-<h2 id="activities">ACTIVITIES</h2>
+<h2 class="has-text-align-center tle"><strong><span>ACTIVITIES</span></strong></h2>
 
 <p>2Hey@2Hey_QAJFlynn_17_QAnon</p>
 
@@ -121,7 +121,7 @@ F1note</p>
 <p>トランプ革命</p>
 
 <p>More</p>
-<h2 id="rules">&ZeroWidthSpace;RULES</h2>
+<h2 class="has-text-align-center tle"><strong><span>RULES</span></strong></h2>
 <h3 id="情報の拡散">情報の拡散</h3>
 <p>人類が今まで特権階級に騙されてたくさんの不幸を一方的に押し付けられてきたという事実に気付かせる行動</p>
 
@@ -219,8 +219,7 @@ SNSでの情報拡散に慣れていらっしゃること。</p>
 現在多数の応募を頂いており、ご対応にお時間を頂戴しております。
 何卒ご理解ご協力の程、よろしくお願い致します。</p>
 
-<h2 id="message">&ZeroWidthSpace;MESSAGE</h2>
-
+<h2 class="has-text-align-center tle"><strong><span>MESSAGE</span></strong></h2>
 <p>mama@ma_ma_2880
 世の中が何だかおかしい？？と思ったのは子育てにお金がかかり過ぎる事に気付いてから。「成人するまでに1000万円もかかるなんてありえない！！」と疑問に思ったのが私のスタートです。政治から始まり調べに調べていくうちとんでもない闇の世界の真実にたどり着きました。子育てと闇世界の陰謀がつながっていると知った時の衝撃！！！絶望しました。子供たちの未来も日本の未来もないと思いました。</p>
 
@@ -306,7 +305,7 @@ Eriさんは日本で唯一の Qmap 翻訳者です。</p>
 
 <p>&ZeroWidthSpace;ご無理のない範囲でご協力頂ける方がいらっしゃいましたら、どうぞよろしくお願い致します。</p>
 
-<h2 id="prayer-time">&ZeroWidthSpace;&ZeroWidthSpace;PRAYER TIME</h2>
+<h2 id="list-of-members20211123pm-update">LIST OF MEMBERS　※20211123PM UPDATE</h2><h2 id="prayer-time">&ZeroWidthSpace;&ZeroWidthSpace;</h2>
 <p>QAmryJapanFlynnでは隊員のみんなでお祈りをしています。</p>
 
 <p>&ZeroWidthSpace;この祈りは宗教的なものではなく純粋な祈りです。</p>
