@@ -23,21 +23,21 @@
 
 
 
-### 21.9.4
+	<h3>21.9.4</h3>
 
-『新名称への変更のお知らせ』
-新名称「✨QT meet up✨」
+	<p>『新名称への変更のお知らせ』</p>
+	<p>新名称「✨QT meet up✨」</p>
 
-QAJF井戸端会議がリニューアルして新名称「✨QT meet up✨」となりました👏👏👏
-詳しくはこちらをご覧ください。
+	<p>QAJF井戸端会議がリニューアルして新名称「✨QT meet up✨」となりました👏👏👏</p>
+	<p>詳しくはこちらをご覧ください。</p>
 
-More
-世界を救う計画(日本語吹替版)
+	<p>More</p>
+	<h3>世界を救う計画(日本語吹替版)</h3>
 	<div style="width:100%;overflow:hidden;text-align:center;margin:0 auto;">
   <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/" width="1086"></iframe>
   </div>
 	</section>
-QArmyJapanFlynnMovieTaskForceの動画は下記サイトに​ご用意しております
+<p>QArmyJapanFlynnMovieTaskForceの動画は下記サイトに​ご用意しております</P>
 
 BITCHUTEがメインですが、BITCHUTEQArmyJapanFlynnMovieTaskForceでアップできなかった動画を現在Odyseeにアップしています
 
