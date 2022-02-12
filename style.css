@@ -49,7 +49,8 @@ header h1 a {
 .bxslider {
  
   position: relative;
-  height: 100vh;
+  /* height: 100vh; */
+  height:300px;
 }
 .bxslider img {
   position: absolute;
