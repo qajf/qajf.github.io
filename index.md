@@ -1,8 +1,9 @@
 <ul class="bxslider" style="width:100&; background-size:cover;height:395px;">
   <li><img src="/images/pic1.jpg" /></li>
   <li><img src="/images/pic2.jpg" /></li>
-  <li><img src="/images/pic3.jpg" /></li>
+  <!--<li><img src="/images/pic3.jpg" /></li>
   <li><img src="/images/pic4.jpg" /></li>
+-->
 </ul>
 
 
@@ -340,8 +341,4 @@ QAmryJapanFlynnでは隊員のみんなでお祈りをしています。
 12:00
 18:00
 ​22:00
-<script>
-  $(document).ready(function(){
-  $('.bxslider').bxSlider();
-});
-  </script>
+
