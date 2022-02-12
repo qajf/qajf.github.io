@@ -9,6 +9,13 @@ url: "https://qajf.github.io" # サイトのドメインを入力します。
 plugins: # 使用するプラグインがあればここに追加します
   - jekyll-feed
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
 exclude: # サイトの生成に含めないものをここに追加します
   - .sass-cache/
   - .jekyll-cache/
