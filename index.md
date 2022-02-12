@@ -34,7 +34,7 @@ QAJF井戸端会議がリニューアルして新名称「✨QT meet up✨」と
 More
 世界を救う計画(日本語吹替版)
 	<div style="width:80%;overflow:hidden;text-align:center;margin:0 auto;">
-  <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/" height="560"></iframe>
+  <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/" width="1086" height="560"></iframe>
   </div>
 	</section>
 QArmyJapanFlynnMovieTaskForceの動画は下記サイトに​ご用意しております
