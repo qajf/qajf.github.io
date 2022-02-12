@@ -30,11 +30,12 @@
 
 	<p>QAJF井戸端会議がリニューアルして新名称「✨QT meet up✨」となりました👏👏👏</p>
 	<p>詳しくはこちらをご覧ください。</p>
-
+<button style="background:#000;color:#fff;padding:0 20px;text-align:center;">
 	<p>More</p>
+	</button>
 	<h3>世界を救う計画(日本語吹替版)</h3>
-	<div style="width:100%;height:560px;overflow:hidden;text-align:center;margin:0 auto;">
-  <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/"></iframe>
+	<div style="width:100%;overflow:hidden;text-align:center;margin:0 auto;">
+  <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/" height="560"></iframe>
   </div>
 	
 <p>QArmyJapanFlynnMovieTaskForceの動画は下記サイトに​ご用意しております</P>
