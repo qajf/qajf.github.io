@@ -33,10 +33,10 @@
 
 	<p>More</p>
 	<h3>世界を救う計画(日本語吹替版)</h3>
-	<div style="width:100%;overflow:hidden;text-align:center;margin:0 auto;">
+	<div style="width:100%;height:560px;overflow:hidden;text-align:center;margin:0 auto;">
   <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/"></iframe>
   </div>
-	</section>
+	
 <p>QArmyJapanFlynnMovieTaskForceの動画は下記サイトに​ご用意しております</P>
 
 BITCHUTEがメインですが、BITCHUTEQArmyJapanFlynnMovieTaskForceでアップできなかった動画を現在Odyseeにアップしています
@@ -45,6 +45,7 @@ BITCHUTE
 Odysee
 <p>BITCHUTE
 Odysee</p>
+</section>
 <section>
 <h2 id="prologue">PROLOGUE</h2>
 <p>今の世の中 何だかおかしな事ばかりだと違和感を覚えている皆様。</p>
