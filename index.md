@@ -66,6 +66,7 @@ Odysee</p>
 <p>Documents
 Telegram Channel
 RedPill News</p>
+	<section>
 <h2 class="has-text-align-center tle"><strong><span>What is Q？</span></strong></h2>
 <p>本当のことをお伝えしよう</p>
 
@@ -89,6 +90,8 @@ RedPill News</p>
 What is Qmovement？
 What is 8kun？
 Learn more</p>
+	</section>
+	<section>
 <h2 class="has-text-align-center tle"><strong><span>ACTIVITIES</span></strong></h2>
 
 <p>2Hey@2Hey_QAJFlynn_17_QAnon</p>
@@ -121,6 +124,8 @@ F1note</p>
 <p>トランプ革命</p>
 
 <p>More</p>
+	</section>
+	<section>
 <h2 class="has-text-align-center tle"><strong><span>RULES</span></strong></h2>
 <h3 id="情報の拡散">情報の拡散</h3>
 <p>人類が今まで特権階級に騙されてたくさんの不幸を一方的に押し付けられてきたという事実に気付かせる行動</p>
@@ -139,7 +144,8 @@ F1note</p>
 
 <p>いちゃもん禁止
 周囲の人や物への感謝の心を忘れない</p>
-
+	</section>
+	<section>
 <p>##QArmyJapanFlynn
 入隊希望の方へ
 応募方法
@@ -218,7 +224,7 @@ SNSでの情報拡散に慣れていらっしゃること。</p>
 <p>その他
 現在多数の応募を頂いており、ご対応にお時間を頂戴しております。
 何卒ご理解ご協力の程、よろしくお願い致します。</p>
-
+	
 <h2 class="has-text-align-center tle"><strong><span>MESSAGE</span></strong></h2>
 <p>mama@ma_ma_2880
 世の中が何だかおかしい？？と思ったのは子育てにお金がかかり過ぎる事に気付いてから。「成人するまでに1000万円もかかるなんてありえない！！」と疑問に思ったのが私のスタートです。政治から始まり調べに調べていくうちとんでもない闇の世界の真実にたどり着きました。子育てと闇世界の陰謀がつながっていると知った時の衝撃！！！絶望しました。子供たちの未来も日本の未来もないと思いました。</p>
@@ -239,11 +245,14 @@ QAJF隊員となり仲間と出会い団結する事で世界が変わってき�
 
 <p>世の中を良くしたいという強い気持ちさえあれば、能力や知識量などは関係ありません。
 私たちと一緒に世の中を変えましょう！</p>
-
+	</section>
+	<section>
 <h2 id="list-of-members20211123pm-update">LIST OF MEMBERS　※20211123PM UPDATE</h2>
 <p>隊員たちのSNSアカウントをご紹介します。是非フォローしてください。それが力となります。</p>
 
 <p>Follow
+	</section>
+	<section>
 ##Recommended Videos
 QAJFで作成した動画だけでなく SNSで発見した興味深い動画もご紹介しております。</p>
 
@@ -272,7 +281,8 @@ Qって一体何なんだろうか？</p>
 <p>興味を抱いた方は、さあ自分で調べよう！</p>
 
 <p>&ZeroWidthSpace;⭐︎最大のヒント @EriQmapJapan さんをまずはフォローしてみて下さい！</p>
-
+</section>
+<section>
 <h2 id="gab">Gab</h2>
 <p>Eriさんへの寄付のお願い
 Eriさんは日本で唯一の Qmap 翻訳者です。</p>
@@ -304,7 +314,8 @@ Eriさんは日本で唯一の Qmap 翻訳者です。</p>
 <p>を運営してくださっているQRAFT(クラフト)さんでお買い物をして頂くと、支援に繋がります。</p>
 
 <p>&ZeroWidthSpace;ご無理のない範囲でご協力頂ける方がいらっしゃいましたら、どうぞよろしくお願い致します。</p>
-
+</section>
+<section>
 <h2 id="list-of-members20211123pm-update">LIST OF MEMBERS　※20211123PM UPDATE</h2><h2 id="prayer-time">&ZeroWidthSpace;&ZeroWidthSpace;</h2>
 <p>QAmryJapanFlynnでは隊員のみんなでお祈りをしています。</p>
 
