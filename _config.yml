@@ -8,7 +8,7 @@ url: "https://qajf.github.io" # サイトのドメインを入力します。
 
 plugins: # 使用するプラグインがあればここに追加します
   - jekyll-feed
-
+markdown: kramdown
 exclude: # サイトの生成に含めないものをここに追加します
   - .sass-cache/
   - .jekyll-cache/
