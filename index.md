@@ -7,7 +7,7 @@
 </ul>
 
 
-   
+<section>   
 
 INFORMATION
 12022.1.3
@@ -342,3 +342,4 @@ QAmryJapanFlynnでは隊員のみんなでお祈りをしています。
 18:00
 ​22:00
 
+</section>
