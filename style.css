@@ -46,6 +46,22 @@ header h1 a {
   height: 300px;
 }
 
+.bx-slider {
+ 
+  position: relative;
+  height: 100vh;
+}
+.bx-slider img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: inherit;
+}
+
 .swiper-slide {
   /* スライドのサイズを調整、中身のテキスト配置調整、背景色 */
   color: #ffffff;
