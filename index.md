@@ -227,7 +227,8 @@ SNSでの情報拡散に慣れていらっしゃること。</p>
 <p>その他
 現在多数の応募を頂いており、ご対応にお時間を頂戴しております。
 何卒ご理解ご協力の程、よろしくお願い致します。</p>
-	
+	</section>
+	<section>
 <h2 class="has-text-align-center tle"><strong><span>MESSAGE</span></strong></h2>
 <p>mama@ma_ma_2880
 世の中が何だかおかしい？？と思ったのは子育てにお金がかかり過ぎる事に気付いてから。「成人するまでに1000万円もかかるなんてありえない！！」と疑問に思ったのが私のスタートです。政治から始まり調べに調べていくうちとんでもない闇の世界の真実にたどり着きました。子育てと闇世界の陰謀がつながっていると知った時の衝撃！！！絶望しました。子供たちの未来も日本の未来もないと思いました。</p>
@@ -256,7 +257,9 @@ QAJF隊員となり仲間と出会い団結する事で世界が変わってき�
 <p>Follow
 	</section>
 	<section>
-##Recommended Videos
+##
+		
+		<h2>Recommended Videos</h2>
 QAJFで作成した動画だけでなく SNSで発見した興味深い動画もご紹介しております。</p>
 
 <p>&ZeroWidthSpace;</p>
@@ -273,11 +276,15 @@ OUT OF SHADOWS ／ アウト・オブ・シャドウズ（暗闇を抜けて）�
 お金ができる仕組み 銀行の詐欺システム #keizai 「借金としてのお金」 
 お金ができる仕組み 銀行の詐欺システム #keizai 「借金としてのお金」
  1 views
+	</section?
+	<section>
 Blog
 最近の投稿
 Qムーヴメントとは
 今すぐTVを捨ててください
 Click here
+	</section>
+	<section>
 QArmyJapanFlynnの活動に 興味をお持ちですか？
 Qって一体何なんだろうか？</p>
 
