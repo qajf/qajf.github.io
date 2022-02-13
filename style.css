@@ -298,35 +298,7 @@ border-bottom:3px #ff0000;
 
 /* activities */
 
-.grid-container {
-  background: #cfd8dc;
-  padding: 30px;
-  /* 実質、以下の3ラインのコードのみでレスポンシブなギャラリーが実装できます */
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-gap: 30px;
+.wrapper {
+    display: grid;
 }
 
-/* ここから下はそれぞれのitem、つまりカードに対するスタイリングですので、レスポンシブギャリーとは、直接関係ない CSS です。 */
-
-.item {
-  background: #2196f3;
-  padding: 17px;
-  display: grid;
-  grid-gap: 10px;
-  grid-template-columns: 1fr;
-  grid-template-rows: 200px 166px 1fr;
-}
-
-.item > p {
-  font-size: 12px;
-}
-
-.item > div {
-  width: 100%;
-}
-
-.item > div > img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
