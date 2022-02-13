@@ -83,10 +83,10 @@ h2 span:after {
     background: repeating-linear-0gradient(-45deg, #ff00ff, #ff00ff 2px, #fff 2px, #fff 4px);
 }
 
-img{
-  height: 393px;
-  width: 100%;
-  object-fit: cover;
+.bxslider img {
+    height: 393px;
+    width: 100%;
+    object-fit: cover;
 }
 .bx-wrapper{
   border:none!important;
