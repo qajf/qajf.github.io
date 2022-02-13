@@ -309,6 +309,7 @@ border-bottom:3px #ff0000;
         padding:  10px;             /* 余白指定 */
         display: flex;              /* フレックスボックスにする */
         flex-direction:row;         /* 要素の並び順 */
+      flex-wrap: wrap; 
     }
      
     .flex_test-item {
