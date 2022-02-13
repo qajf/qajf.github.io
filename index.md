@@ -8,7 +8,8 @@
 
 
 
-<section>	
+<section>
+	<div class="info">
 	<h2 class="has-text-align-center tle"><strong><span>INFORMATION</span></strong></h2>  
 	<h3>12022.1.3</h3>  
 
@@ -35,6 +36,8 @@
 	<p>More</p>
 	</button>
 	</div>
+	</section>
+	<section>
 	<h3 class="has-text-align-center">世界を救う計画(日本語吹替版)</h3>
 	<div style="width:80%;overflow:hidden;text-align:center;margin:0 auto;">
   <iframe src="https://www.bitchute.com/embed/PRYWEi7SgrRU/" height="560"></iframe>
