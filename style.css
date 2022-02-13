@@ -303,7 +303,7 @@ border-bottom:3px #ff0000;
   padding: 30px;
   /* 実質、以下の3ラインのコードのみでレスポンシブなギャラリーが実装できます */
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 30px;
 }
 
@@ -311,11 +311,11 @@ border-bottom:3px #ff0000;
 
 .item {
   background: #2196f3;
-  padding: 20px;
+  padding: 17px;
   display: grid;
   grid-gap: 10px;
   grid-template-columns: 1fr;
-  grid-template-rows: 250px 50px 1fr;
+  grid-template-rows: 200px 166px 1fr;
 }
 
 .item > p {
