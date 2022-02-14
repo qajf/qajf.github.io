@@ -347,8 +347,8 @@ border-bottom:3px #ff0000;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 .item {
-  border-radius: 10px;
-  background: #edf;
+  /* border-radius: 10px; */ 
+   background: #edf; 
   padding: 15px;
   text-align: center;
 }
