@@ -317,10 +317,10 @@ border-bottom:3px #ff0000;
      
     .flex_test-item {
     
-    width:33.33%; 
-    padding: 30px;
+    width:30.33%; 
+    padding: 20px;
         color:  #fff;               /* 文字色 */
-        margin:  10px;              /* 外側の余白 */
+        margin:  14px;              /* 外側の余白 */
                /* 角丸指定 */
                     /* 幅指定 */
       box-sizing:border-box;
