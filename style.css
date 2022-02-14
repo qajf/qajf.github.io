@@ -323,6 +323,7 @@ border-bottom:3px #ff0000;
         margin:  10px;              /* 外側の余白 */
                /* 角丸指定 */
                     /* 幅指定 */
+      box-sizing:border-box;
     }
      
     .flex_test-item:nth-child(1) {
