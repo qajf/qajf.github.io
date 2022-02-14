@@ -340,3 +340,8 @@ border-bottom:3px #ff0000;
     .flex_test-item:nth-child(4) {
         background-color:  #00BCD4; /* 背景色指定 */
     }
+
+@media (max-width: 768px)
+.flex_test-item {
+    width: 100%;
+}
