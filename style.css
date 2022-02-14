@@ -310,7 +310,7 @@ border-bottom:3px #ff0000;
         display: flex;              /* フレックスボックスにする */
         flex-direction:row;         /* 要素の並び順 */
       flex-wrap: wrap; 
-      justify-content:center;
+      
     }
      
     .flex_test-item {
