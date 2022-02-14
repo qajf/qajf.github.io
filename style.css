@@ -322,7 +322,7 @@ border-bottom:3px #ff0000;
     margin: 3%;
     box-sizing: border-box;
     /* flex-wrap: wrap; */
-    width: 280px;
+    width: 27%;
     }
      
     .flex_test-item:nth-child(1) {
@@ -341,7 +341,8 @@ border-bottom:3px #ff0000;
         background-color:  #00BCD4; /* 背景色指定 */
     }
 
-@media (max-width: 768px)
+@media (max-width: 768px){
 .flex_test-item {
     width: 100%;
+}
 }
