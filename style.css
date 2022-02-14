@@ -344,7 +344,7 @@ border-bottom:3px #ff0000;
 .grid {
   display: grid;
   gap: 30px;
-  grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 .item {
   border-radius: 10px;
