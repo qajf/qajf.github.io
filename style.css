@@ -296,6 +296,20 @@ border-bottom:3px #ff0000;
   padding:20px;
 }
 
+
+button {
+  margin:0 auto;
+  text-align:center;
+  background:#e10415;
+  color:#fff;
+  padding:10px 20px;
+border: none;
+}
+
+button:hover {
+  opacity:0.7;
+}
+
 /* activities */
 
 .wrapper {
