@@ -356,8 +356,8 @@ img {
   max-width: 100%;
   height: auto;
 }
-p {
-  text-align: left;
+.item p {
+  text-align: center;
 }
 
 @media (max-width: 768px){
