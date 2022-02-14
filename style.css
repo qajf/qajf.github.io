@@ -324,6 +324,7 @@ border-bottom:3px #ff0000;
                /* 角丸指定 */
                     /* 幅指定 */
       box-sizing:border-box;
+      flex-wrap : wrap;
     }
      
     .flex_test-item:nth-child(1) {
