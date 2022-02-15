@@ -56,6 +56,19 @@
 	  });
   </script>
 	  <script>
+		  $(function () {
+2
+	  $('.main_nav > .mega_btn').hover(function(){
+3
+	      $(this).children('.mega_menu').stop().slideToggle();
+4
+	      $('body').toggleClass('overlay');
+5
+	  });
+6
+	});
+	  </script>
+	  <script>
 $(function() {
     $('.menu-btn').click(function() {
         $(this).toggleClass('active');
