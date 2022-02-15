@@ -19,9 +19,22 @@ header {
     margin: 0 auto;
     height: 100px;
    height: 70px;
+  display: flex;
+	align-items: center;
+	justify-content: space-between;
   
+  position: relative; 
     margin-top: 20px;
 }
+
+/* header {
+  width: 100%;
+  background-color: #ddd;
+  padding: 30px;
+  
+  
+  margin-bottom: 30px;
+} */
 
 section {
   margin-left:5%;
@@ -283,6 +296,16 @@ border-bottom:3px #ff0000;
   }
 /* humberger */
 /*ここから下がハンバーガーメニューのスタイル*/
+.gnavi__pc-style {
+  margin: 0 0 0 auto;
+}
+.gnavi__pc-style ul {
+  display: flex;
+  justify-content: space-between;
+}
+.gnavi__pc-style ul li:not(:last-of-type) {
+  margin-right: 10px;
+}
 .gnavi__sp-style {
   display: none;
 }
