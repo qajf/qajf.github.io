@@ -1,0 +1,228 @@
+<header>
+<div class="h_left">
+  <h1><a href="/">{{ site.title }}</a></h1> 
+  <span>OFFICIAL  WEBSITE</span>
+  </div>
+    <nav class="gnavi__pc-style">
+    <ul class="navbar nav">
+        {% assign links = site.data.nav %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+                <li class="dropdown {{ class }}">
+                    <a href="{{ link.url }}" target="{{ link.target }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for sublink in link.sublinks %}
+                            {% if sublink.title == 'separator' %}
+                                <li role="separator" class="divider"></li>
+                            {% else %}
+                                <li>
+                                    <a href="{{ sublink.url }}" target="{{ sublink.target }}">{{ sublink.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="{{ class }}">
+                    <a href="{{ link.url }}" target="{{ link.target }}">{{ link.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+      <script>
+$(function(){
+    var menuBtn = $("#menu-btn"),
+        menuContent = $("#menu-content");
+    menuBtn.click(function(){
+        menuContent.slideToggle();
+    });
+    $(window).resize(function(){
+        var win = $(window).width(),
+            p = 960;
+        if(win > p){
+            menuContent.show();
+        }else{
+            menuContent.hide();
+        }
+    });
+});
+</script>
+</nav>
+<div class="menu-btn">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+  <nav class="gnavi__sp-style main_menu">
+    <div id="menu">
+<div id="menu-inner">
+    <div id="btn-content">
+        <span id="menu-btn"><i class="blogicon-reorder"></i> MENU</span>
+    </div>
+    <ul class="navbar nav main_nav" id="menu-content">
+        
+      <li class="dropdown  mega_btn first-content">
+                    <a href="/information.html" target="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Information <span class="caret"></span></a>
+                    <ul class="dropdown-menu child second-content">
+                                <li>
+                                    <a href="/event.html" target="">event</a>
+                                </li>
+                    </ul>
+                </li>
+            <li class="dropdown  mega_btn">
+                    <a href="/Q.html" target="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Q <span class="caret"></span></a>
+                    <ul class="dropdown-menu child second-content">
+                                <li>
+                                    <a href="https://postimg.cc/gallery/X3qjyWj" target="_blank">Graphic comps of Q posts</a>
+                                </li>
+                           
+                                <li>
+                                    <a href="https://www.inthematrixxx.com/qagg/" target="_blank">Q Aggregator</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.resignation.info/" target="_blank">Resignation.info</a>
+                                </li>
+                                <li>
+                                    <a href="https://memewarrior.net/" target="_blank">MEMETIC WARFARE</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.thetrumparchive.com/" target="_blank">Trump Twitter Archive V2</a>
+                                </li>
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Qmap.html" target="">Qmap</a>
+                </li>
+                <li class="dropdown  mega_btn first-content">
+                    <a href="/qajf.html" target="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">QAJF <span class="caret"></span></a>
+                    <ul class="dropdown-menu child second-content">
+                                <li>
+                                    <a href="/history.html" target="">History</a>
+                                </li>
+                                <li>
+                                    <a href="/okabaeri9111.html" target="">okabaeri9111</a>
+                                </li>
+                                <li>
+                                    <a href="https://qajf.officialblog.jp/" target="_blank">QAJFレッドピルニュース</a>
+                                </li>
+                        
+                    </ul>
+                </li>
+                            <li>
+                    <a href="/radio.html" target="">Radio</a>
+                </li>
+                <li>
+                    <a href="https://tarouxx7.wixsite.com/mysite" target="_blank">LIVE</a>
+                </li>
+                            <li>
+                    <a href="tools.html" target="">Tools</a>
+                </li>
+                <li>
+                    <a href="Blog" target="">Blog</a>
+                </li>
+                <li class="dropdown  mega_btn first-content">
+                    <a href="link.html" target="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Link <span class="caret"></span></a>
+                    <ul class="dropdown-menu child second-content">
+                                <li>
+                                    <a href="/worldsite.html" target="">海外サイト</a>
+                                </li>
+                                <li>
+                                    <a href="/convinient.html" target="">便利ツール</a>
+                                </li>
+                    </ul>
+                </li>
+                <li class="">
+                    <a href="contact.html" target="">Contact</a>
+                </li>
+            
+    </ul>
+  </div>
+</div>
+<div style="clear:both"></div>
+  </nav>
+
+
+<div id="mobilemenu" class="ui styled accordion">
+  <div class="title">
+    <i class="paint brush icon"></i>
+    Diseño web
+    <i class="dropdown icon"></i>
+  </div>
+  <div class="content">
+    <div class="accordion">
+      <div class="title">
+          <i class="cloud upload icon"></i>
+          Level 1Asa
+          <i class="dropdown icon"></i>
+      </div>
+      <div class="content">
+        <div class="accordion">
+          <div class="item">
+              <i class="tags icon"></i>
+              Level 1A-A
+          </div>
+          <div class="item">
+              <i class="shield alternate icon"></i>
+              Level 1A-A
+          </div>
+        </div>
+      </div>
+      <div class="item">
+          <i class="headphones icon"></i>
+          Level 1B
+      </div>
+      <div class="item">
+          <i class="chart line icon"></i>
+          Level 1C
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <i class="code icon"></i>
+    Desarrollo front-end
+  </div>
+  <div class="title">
+    <i class="mobile alternate icon"></i>
+    Diseño responsive
+    <i class="dropdown icon"></i>
+  </div>
+  <div class="content">
+    <div class="accordion">
+      <div class="title">
+        <i class="dropdown icon"></i>
+        Level 2A
+      </div>
+      <div class="content">
+        <div class="accordion">
+          <div class="item">
+              Level 2A-A
+          </div>
+          <div class="item">
+              Level 2A-A
+          </div>
+        </div>
+      </div>
+      <div class="item">
+          Level 2B
+      </div>
+      <div class="item">
+          Level 2C
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <i class="globe icon"></i>
+    Posicionamiento web.
+  </div>
+</div>
+
+
+
+  
+</header>
