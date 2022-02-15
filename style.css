@@ -397,6 +397,7 @@ img {
 
 .inside-footer-widgets {
     display: flex;
+  justify-content: space-between;
 }
 
 @media (max-width: 768px){
@@ -405,4 +406,5 @@ img {
 }
   button {
     width:100%;
+    margin-bottom:15px;
 }
