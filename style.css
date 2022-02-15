@@ -395,6 +395,10 @@ img {
   text-align: center;
 }
 
+.inside-footer-widgets {
+    display: flex;
+}
+
 @media (max-width: 768px){
 .flex_test-item {
     width: 100%;
