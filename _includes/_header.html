@@ -40,7 +40,9 @@
     <span></span>
   </div>
 
-  <nav class="main_menu">
+  <nav>
+    <div class="menu-container">
+<div class="menu">
     <ul class="navbar nav main_nav">
         {% assign links = site.data.nav %}
         {% for link in links %}
@@ -70,6 +72,8 @@
             {% endif %}
         {% endfor %}
     </ul>
+      </div>
+    </div>
   </nav>
 
 
