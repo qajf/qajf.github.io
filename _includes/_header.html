@@ -33,6 +33,24 @@
             {% endif %}
         {% endfor %}
     </ul>
+      <script>
+$(function(){
+    var menuBtn = $("#menu-btn"),
+        menuContent = $("#menu-content");
+    menuBtn.click(function(){
+        menuContent.slideToggle();
+    });
+    $(window).resize(function(){
+        var win = $(window).width(),
+            p = 960;
+        if(win > p){
+            menuContent.show();
+        }else{
+            menuContent.hide();
+        }
+    });
+});
+</script>
 </nav>
 <div class="menu-btn">
     <span></span>
