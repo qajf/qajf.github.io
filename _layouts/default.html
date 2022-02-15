@@ -93,6 +93,27 @@ $.each($toggleBtns, (i, el) => {
   }, { passive: false });
 });
 	  </script>
+	  <script>
+		  $(window).on('load resize', function(){
+	  var winW = $(window).width();
+	  var devW = 767;
+	  if (winW <= devW) {
+	    $(function(){
+      $(".main_nav > .mega_btn").on("click", function() {
+
+	            $(this).children('.mega_menu').slideToggle();
+	        });
+	    });
+	  } else {
+	    $(function () {
+	      $('.main_nav > .mega_btn').hover(function(){
+	          $(this).children('.mega_menu').stop().slideToggle();
+	          $('body').toggleClass('overlay');
+	      });
+	    });
+	  }
+	});
+	  </script>
 
 <script>
   const swiper = new Swiper(".swiper", {
