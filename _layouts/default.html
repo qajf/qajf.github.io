@@ -66,6 +66,18 @@ $(function() {
     });
 });
 	  </script>
+	  <script>
+	  const $toggleBtns = $('.js-toggle');
+$.each($toggleBtns, (i, el) => {
+  el.addEventListener('touchstart', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const $self = $(e.currentTarget);
+    $self.toggleClass('is-open');
+    $self.next().not(':animated').slideToggle(200);
+  }, { passive: false });
+});
+	  </script>
 
 <script>
   const swiper = new Swiper(".swiper", {
