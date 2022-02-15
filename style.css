@@ -726,3 +726,77 @@ ul.third-content {
 }
 
 /* 多階層グローバルメニューCSSここまで */
+
+/* test */
+
+
+body {
+  margin: 20px;
+}
+#mobilemenu .item {
+  margin: 0;
+  padding: .75em 1em;
+  color: rgba(0,0,0,.4);
+  font-weight: 700;
+  border-top: 1px solid rgba(34,36,38,.15);
+  -webkit-transition: background .1s ease,color .1s ease;
+  transition: background .1s ease,color .1s ease;
+  cursor: pointer;
+}
+#mobilemenu .title, #mobilemenu .item {
+  color: #2E2C42;
+  font-weight: 700;
+  font-size: 14px;
+}
+#mobilemenu .active.title, #mobilemenu .item:active {
+  color: #AD6898;
+}
+#mobilemenu .icon:not(.dropdown)  {
+  margin-left: 2px;
+  margin-right: 8px;
+}
+#mobilemenu .dropdown.icon {
+  float: right;
+}
+#mobilemenu > .content {
+  padding: 0px;
+}
+#mobilemenu > .content > .accordion{
+  margin: 0px;
+}
+#mobilemenu > .content > .accordion > div{
+  background: #454359;
+  color: #FFFFFF;
+  padding-left: 30px;
+  border-top: 1px solid #58566e;
+  font-weight: 500;
+}
+#mobilemenu .title .dropdown.icon {
+  font-size: 18px;
+  margin-top: 0px; 
+}
+#mobilemenu .title .dropdown.icon::before {
+  content: '\f107';
+  font-family: Icons;
+}
+#mobilemenu .active.title .dropdown.icon {
+  -webkit-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+  margin-top: 3px;
+}
+
+#mobilemenu > .content > .accordion > .content {
+  padding: 0px;
+}
+#mobilemenu > .content > .accordion > .content > .accordion{
+  margin: 0px;
+}
+#mobilemenu > .content > .accordion > .content > .accordion > .item{
+  background: #312F45;
+  color: #FFFFFF;
+  padding-left: 50px;
+  font-weight: 500;
+  border-top: 1px solid #45425C;
+}
+
+
