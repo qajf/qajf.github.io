@@ -303,6 +303,11 @@ border-bottom:3px #ff0000;
   display: flex;
   justify-content: space-between;
 }
+
+ul.dropdown-menu {
+    display: block;
+}
+
 .gnavi__pc-style ul li:not(:last-of-type) {
   margin-right: 10px;
 }
