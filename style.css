@@ -393,6 +393,7 @@ ul.dropdown-menu {
   margin: 0 auto;
   padding: 0;
   width: 100%;
+	display:block;
 	
 }
 .gnavi__sp-style ul li {
