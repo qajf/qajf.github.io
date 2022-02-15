@@ -400,6 +400,15 @@ img {
   justify-content: space-between;
 }
 
+ul.menu {
+  margin:0;
+  padding:0;
+}
+
+.site-footer {
+  width:80%;
+}
+
 @media (max-width: 768px){
 .flex_test-item {
     width: 100%;
