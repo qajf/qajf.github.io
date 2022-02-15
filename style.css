@@ -386,7 +386,7 @@ ul.dropdown-menu {
 	height: 100vh;
   opacity: 0;
   transition: opacity .6s ease, visibility .6s ease;
-	display: flex;
+	/* display: flex; */
 	align-items: center;
 }
 .gnavi__sp-style ul {
