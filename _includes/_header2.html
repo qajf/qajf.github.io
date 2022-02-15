@@ -3,8 +3,8 @@
   <h1><a href="/">{{ site.title }}</a></h1> 
   <span>OFFICIAL  WEBSITE</span>
   </div>
-    <nav class="gnavi__pc-style">
-    <ul class="navbar nav">
+    <nav>
+    <ul>
         {% assign links = site.data.nav %}
         {% for link in links %}
             {% assign class = nil %}
@@ -33,24 +33,7 @@
             {% endif %}
         {% endfor %}
     </ul>
-      <script>
-$(function(){
-    var menuBtn = $("#menu-btn"),
-        menuContent = $("#menu-content");
-    menuBtn.click(function(){
-        menuContent.slideToggle();
-    });
-    $(window).resize(function(){
-        var win = $(window).width(),
-            p = 960;
-        if(win > p){
-            menuContent.show();
-        }else{
-            menuContent.hide();
-        }
-    });
-});
-</script>
+      
 </nav>
 <div class="menu-btn">
     <span></span>
@@ -58,15 +41,12 @@ $(function(){
     <span></span>
   </div>
 
-  <nav class="gnavi__sp-style main_menu">
-    <div id="menu">
-<div id="menu-inner">
-    <div id="btn-content">
-        <span id="menu-btn"><i class="blogicon-reorder"></i> MENU</span>
-    </div>
-    <ul class="navbar nav main_nav" id="menu-content">
+  <nav>
+   
         
-      <li class="dropdown  mega_btn first-content">
+    <ul>
+        
+      <li class="dropdown>
                     <a href="/information.html" target="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Information <span class="caret"></span></a>
                     <ul class="dropdown-menu child second-content">
                                 <li>
