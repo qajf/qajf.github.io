@@ -1,0 +1,264 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #1a1a1a;
+  font-family:'Alata', 'Noto Sans JP', sans-serif;
+  /*background: #f6f5f4;*/
+}
+
+header {
+   width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+   /* justify-content: space-between; */
+    top: 0;
+ padding-left:30px;
+  padding-right:30px;
+    margin: 0 auto;
+    height: 100px;
+   height: 70px;
+  display: flex;
+	align-items: center;
+	justify-content: space-between;
+  
+  position: relative; 
+    margin-top: 20px;
+}
+
+/* header {
+  width: 100%;
+  background-color: #ddd;
+  padding: 30px;
+  
+  
+  margin-bottom: 30px;
+} */
+
+section {
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom:100px;
+ /* border:1px solid; */
+  
+}
+
+.h_left {
+  float:left;
+}
+
+header h1 {
+
+  font-family: 'Alata', sans-serif;
+  font-size: 28px;
+    font-weight: 600;
+ 
+    margin: 0;
+    padding: 0;
+}
+
+header h1 a {
+  color: #1a1a1a;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    line-height: 1.2em;
+    font-weight: 400;
+    text-transform: none;
+}
+
+.has-text-align-center
+{
+  text-align:center;
+}
+
+h2 span {
+  position:relative;
+}
+
+.tle {
+    margin-bottom: 50px;
+}
+
+h2 span:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 54px;
+    width: 100%;
+    height: 7px;
+    background: -webkit-repeating-linear-gradient(-45deg, #e3c700, #e3c700 2px, #fff 2px, #fff 4px);
+    background: repeating-linear-0gradient(-45deg, #ff00ff, #ff00ff 2px, #fff 2px, #fff 4px);
+}
+
+.bxslider img {
+    height: 393px;
+    width: 100%;
+    object-fit: cover;
+}
+.bx-wrapper{
+  border:none!important;
+  box-shadow: none!important;
+}
+.slider_box{
+  width: 100%;
+}
+
+iframe {
+    max-width: 100%;
+    width: 80%;
+    margin: 0;
+    line-height: 1;
+    border: none;
+}
+
+
+
+
+
+.info {
+  background:#faf9f7;
+  padding:20px;
+}
+
+
+button {
+  margin:0 auto;
+  text-align:center;
+  background:#e10415;
+  color:#fff;
+  padding:10px 20px;
+border: none;
+}
+
+button a {
+  text-decoration:none;
+  color:#fff;
+}
+
+button:hover {
+  opacity:0.7;
+}
+
+button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #e10415;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+}
+button:hover {
+  /*ボタンを押したとき*/
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);/*下に動く*/
+  border-bottom: none;/*線を消す*/
+}
+
+/* activities */
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 50px 50px;
+}
+
+    .flex_test-box {
+        background-color: #eee;     /* 背景色指定 */
+        padding:  30px;             /* 余白指定 */
+        display: flex;              /* フレックスボックスにする */
+        flex-direction:row;         /* 要素の並び順 */
+      flex-wrap: wrap;
+     
+      box-sizing:border-box;
+      margin-bottom:10px;
+    }
+     
+    .flex_test-item {
+    
+    padding: 20px;
+    color: #fff;
+    margin: 3%;
+    box-sizing: border-box;
+    /* flex-wrap: wrap; */
+    width: 27%;
+    }
+     
+    .flex_test-item:nth-child(1) {
+        background-color:  #2196F3; /* 背景色指定 */
+    }
+     
+    .flex_test-item:nth-child(2) {
+        background-color:  #4CAF50; /* 背景色指定 */
+    }
+     
+    .flex_test-item:nth-child(3) {
+        background-color: #3F51B5; /* 背景色指定 */
+    }
+     
+    .flex_test-item:nth-child(4) {
+        background-color:  #00BCD4; /* 背景色指定 */
+    }
+
+.grid {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+.item {
+  /* border-radius: 10px; */ 
+   background: #edf; 
+  padding: 15px;
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.item p {
+  text-align: center;
+}
+
+.inside-footer-widgets {
+    display: flex;
+  justify-content: space-between;
+}
+
+ul.menu {
+  margin:0;
+  padding:0;
+}
+
+.site-footer {
+    /* width: 90%; */
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 170%;
+}
+
+
+
+@media (max-width: 768px){
+.flex_test-item {
+    width: 100%;
+}
+  button {
+    width:100%;
+    margin-bottom:15px;
+}
+.inside-footer-widgets {
+    display: block;
+  
+}	
+		
+}
+
+
