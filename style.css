@@ -406,8 +406,16 @@ ul.menu {
 }
 
 .site-footer {
-  width:80%;
+ site-footer {
+    /* width: 90%; */
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 170%;
 }
+
+
 
 @media (max-width: 768px){
 .flex_test-item {
