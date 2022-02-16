@@ -5,6 +5,7 @@
    $(function(){
 　$('.hamburger').click(function(){
 　　$('.hamburger').toggleClass('active');
+  $('.menu').toggleClass('open');
 　});
 }); 
   </script>
@@ -80,6 +81,12 @@
  transform: translate(-300px);
  transition: 0.3s ease-out;
 }
+ 
+ .menu.open {
+　transform: translate(0);
+　transition: 0.3s ease-out;
+} 
+ 
 li {
 　margin-bottom: 10px;
 } 
