@@ -99,6 +99,15 @@ article {
 	</nav>
 	<nav>
 		<ul>
+			{% assign links = site.data.nav %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+			<li> <span class="icon-plus"></span>
+       <a href="{{ link.url }}" target="{{ link.target }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a></li>
 			<li><a href="#">Top Level Link</a>
 				<ul>
 					<li><a href="#">Second Level Link</a>
