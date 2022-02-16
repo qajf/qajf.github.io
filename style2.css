@@ -113,6 +113,7 @@ h2 span:after {
 .bx-wrapper{
   border:none!important;
   box-shadow: none!important;
+	z-index:-3;
 }
 .slider_box{
   width: 100%;
