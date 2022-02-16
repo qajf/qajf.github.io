@@ -257,7 +257,11 @@ ul.menu {
 .inside-footer-widgets {
     display: block;
   
-}	
+}
+	
+	
+.pc {
+	display:none;
 		
 }
 
