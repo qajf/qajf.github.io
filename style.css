@@ -346,8 +346,8 @@ menu-content-pc > li > a{
    position:relative;
     display: block;
     height: 100%;
-    ppadding-left: 15px;
-    ppadding-right: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     line-height: 40px;
     background: #47a89c;
     color: #fff;
