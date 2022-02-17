@@ -413,7 +413,7 @@ ul.third-content {
     background: #95C7A4;
     color: #fff;
 }
-@media screen and (min-width:780px){
+@media screen and (min-width:680px){
 ul.navbar.nav {
     display: flex;
     position: relative;
