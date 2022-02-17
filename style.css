@@ -486,3 +486,7 @@ ul.third-content {
     background: #95C7A4;
     color: #fff;
 }
+
+ul.navbar.nav {
+    display: flex;
+}
