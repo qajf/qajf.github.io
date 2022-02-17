@@ -44,6 +44,11 @@ section {
   
 }
 
+nav.gnavi__pc-style {
+    float: right;
+    width: 70%;
+}
+
 .h_left {
   float:left;
 }
