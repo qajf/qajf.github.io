@@ -124,33 +124,6 @@ li {list-style:none;}
 
 
 
-/* humberger */
-/*ここから下がハンバーガーメニューのスタイル*/
-.gnavi__pc-style {
-  margin: 0 0 0 auto;
-}
-.gnavi__pc-style ul {
-  display: flex;
-  justify-content: space-between;
-}
-
-ul.dropdown-menu {
-    display: block;
-}
-
-.gnavi__pc-style ul li:not(:last-of-type) {
-  margin-right: 10px;
-}
-.gnavi__sp-style {
-  display: none;
-}
-@media screen and (max-width: 768px) {
-.gnavi__pc-style {
-  display: none;    
-}
-.gnavi__sp-style {
-  display: block;
-}
 
 /*メニューボタン　展開前*/
 .menu-btn {
