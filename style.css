@@ -458,12 +458,11 @@ ul.navbar.nav {
 .nav .dropdown-menu li {
     display: block;
     font-size: 16px;
-    padding: 0;
-    margin: 0;
+   
 }  
 
  .nav li:hover ul.dropdown-menu {
-    top: 80px;
+    top: 40px;
     visibility: visible;
     opacity: 1;
     z-index: 9999; 
@@ -496,7 +495,7 @@ ul.navbar.nav {
   }
 	
 	.nav li:hover {
-		background :#ff0000;
+		border-bottom:3px solid #000; 
 	}
 }  
 
