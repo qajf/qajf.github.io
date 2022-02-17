@@ -486,7 +486,8 @@ ul.third-content {
     background: #95C7A4;
     color: #fff;
 }
-
+@media screen and (min-width:600px){
 ul.navbar.nav {
     display: flex;
+}
 }
