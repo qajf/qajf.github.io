@@ -19,11 +19,11 @@ header {
     margin: 0 auto;
    
    height: 70px;
-  display: flex;
+  /* display: flex; */
 	align-items: center;
 	justify-content: space-between;
   
-  position: relative; 
+  /* position: relative; */ 
     margin-top: 20px;
 }
 
@@ -51,6 +51,7 @@ nav.gnavi__pc-style {
 
 .h_left {
   float:left;
+	margin-left:20px;
 }
 
 header h1 {
@@ -426,8 +427,9 @@ ul.navbar.nav {
   .nav li a {
     position: relative;
     display: block;
-    text-align: center;
-    line-height: 25px;
+    /* text-align: center;*/
+   /* line-height: 25px; */
+	  text-decoration:none;
   }
 
   .nav .dropdown-menu {
@@ -492,5 +494,9 @@ ul.navbar.nav {
   #gNav .contact_btn a:hover {
     color: #fff;
   }
+	
+	.nav li:hover {
+		background :#ff0000;
+	}
 }  
 
