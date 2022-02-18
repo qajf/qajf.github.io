@@ -419,7 +419,7 @@ ul.third-content {
     background: #95C7A4;
     color: #fff;
 }
-@media screen and (min-width:480px){
+@media screen and (max-width:600px){
 	
 	header {
 		height:auto;
