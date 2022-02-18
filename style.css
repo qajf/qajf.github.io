@@ -421,35 +421,7 @@ ul.third-content {
 }
 @media screen and (max-width:600px){
 	
-	header {
-		height:auto;
-		margin-top:0;
-	}
-	.h_left {
-    float: left;
-    margin-left: 20px;
-    position: absolute;
-    z-index: 999999;
-    color: #fff;
-}
-	header h1 a {
-    color: #fff;
-    font-size: 20px;
-    text-decoration: none;
-    /* z-index: 99999; */
-}
 	
-	.h_top {
-		display:block;
-		position:relative;
-	}
-	
-	.h_left {
-position:absolute;
-		top:0;
-		left:0;
-		font-size:14px;
-	}
 ul.navbar.nav {
     display: flex;
     position: relative;
