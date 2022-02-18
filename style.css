@@ -422,7 +422,7 @@ ul.third-content {
 @media screen and (min-width:480px){
 	
 	header {
-		height:iauto;
+		height:auto;
 		margin-top:0;
 	}
 	
