@@ -420,6 +420,23 @@ ul.third-content {
     color: #fff;
 }
 @media screen and (min-width:480px){
+	
+	header {
+		height:iauto;
+		margin-top:0;
+	}
+	
+	.h_top {
+		display:block;
+		position:relative;
+	}
+	
+	.h_left {
+position:absolute;
+		top:0;
+		left:0;
+		font-size:14px;
+	}
 ul.navbar.nav {
     display: flex;
     position: relative;
