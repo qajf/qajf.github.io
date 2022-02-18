@@ -19,7 +19,7 @@ header {
     margin: 0 auto;
    
    height: 70px;
-  /* display: flex; */
+  display: flex;
 	align-items: center;
 	justify-content: space-between;
   
