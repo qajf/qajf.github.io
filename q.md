@@ -1,3 +1,7 @@
+---
+layout:sub
+---
+
 <div style="font-size:60px;">
 What is
 Q-Movement？
