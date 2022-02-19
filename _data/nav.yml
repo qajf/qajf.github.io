@@ -4,7 +4,7 @@
     - title: event
       url: /event.html
 - title: Q
-  url: /Q.html
+  url: /q.html
   sublinks:
     - title: Graphic comps of Q posts
       url: https://postimg.cc/gallery/X3qjyWj
@@ -23,7 +23,7 @@
       target: _blank
   
 - title: Qmap
-  url: /Qmap.html
+  url: /qmap.html
   
 - title: QAJF
   url: /qajf.html
