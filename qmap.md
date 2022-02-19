@@ -1,5 +1,5 @@
 ---
-layout:sub
+layout: sub
 ---
 
 # QmapJapan.pub
@@ -24,6 +24,7 @@ qmap.pubのみでした。そのため、QAJF独自でQの投稿を集めたペ�
 
 
 Qドロップはこちらをご覧ください
+
  
 QmapJapan.pub
 海外サイトにも日本語訳を投稿しています
