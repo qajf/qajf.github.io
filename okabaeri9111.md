@@ -1,5 +1,5 @@
 ---
-layout:sub
+layout: sub
 ---
 
 okabaeri9111
