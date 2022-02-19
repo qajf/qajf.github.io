@@ -1,5 +1,8 @@
+---
+layout: sub
+---
 
-QAJF
+# QAJF
 ●QArmyJapanFlynnとは
 
 2019年6月上旬に発足した日本のQアノングループです。
