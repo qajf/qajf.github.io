@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+      {% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+    <meta name="description" content="{% if page.desc %}{{ page.desc }}{% else %}{{ page.content | strip_html | truncate: 130 }}{% endif %}">
+
+    <!-- OGP の設定 -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:description" content="{% if page.desc %}{{ page.desc }}{% else %}{{ page.content | strip_html | truncate: 130 }}{% endif %}" />
+    <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ "/assets/images/ogp-image.png" | absolute_url }}{% endif %}" />
+
+    <!-- RSSフィード の指定 -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ "/feed.xml" | absolute_url }}" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+	  
+    <!-- mvp.css https://andybrewer.github.io/mvp/ を利用します。 MITライセンスで公開されています。  -->
+    <link href="{{ "/mvp.css" | absolute_url }}" rel="stylesheet">
+    <!-- CSS only -->
+<!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">-->
+    <link href="style.css" rel="stylesheet">
+	  
+  <!-- jQuery library (served from Google) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	  <script src="js/jquery.meanmenu.js"></script>	
+	  <!--<link href="css/meanmenu.min.css" rel="stylesheet">-->
+	  <link rel="stylesheet" href="css/meanmenu.css" media="all" />
+	  <script>
+	jQuery(document).ready(function () {
+	jQuery('header nav').meanmenu();
+});
+	  </script>
+<!-- bxSlider Javascript file -->
+<script src="/js/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<link href="/lib/jquery.bxslider.css" rel="stylesheet" /> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" />
+	  <!--<script src="js/jquery.meanmenu.min.js"></script>-->
+
+   
+
+    
+    <link
+  rel="stylesheet"
+  href="https://unpkg.com/swiper@8/swiper-bundle.min.css"
+/>
+
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+<script>
+  $(document).ready(function(){
+  $('.bxslider').bxSlider({
+    auto: true,
+		
+	  adaptiveHeight: false
+});
+	  });
+  </script>
+	  <!--<script>
+		  $(function () {
+2
+	  $('.main_nav > .mega_btn').hover(function(){
+3
+	      $(this).children('.mega_menu').stop().slideToggle();
+4
+	      $('body').toggleClass('overlay');
+5
+	  });
+6
+	});
+	  </script>
+	  
+	  <script>
+		  /*global $ */
+$(document).ready(function() {
+  "use strict";
+  $('.menu > ul > li:has( > ul)').addClass('menu-dropdown-icon');
+  //Checks if li has sub (ul) and adds class for toggle icon - just an UI
+  $('.menu > ul > li > ul:not(:has(ul))').addClass('normal-sub');
+  //Checks if drodown menu's li elements have anothere level (ul), if not the dropdown is shown as regular dropdown, not a mega menu (thanks Luka Kladaric)
+  $(".menu > ul").before("<a href=\"#\" class=\"menu-mobile\">Navigation</a>");
+  //Adds menu-mobile class (for mobile toggle menu) before the normal menu
+  //Mobile menu is hidden if width is more then 959px, but normal menu is displayed
+  //Normal menu is hidden if width is below 959px, and jquery adds mobile menu
+  //Done this way so it can be used with wordpress without any trouble
+  $(".menu > ul > li").hover(function(e) {
+    if ($(window).width() > 943) {
+      $(this).children("ul").stop(true, false).fadeToggle(150);
+      e.preventDefault();
+    }
+  });
+  //If width is more than 943px dropdowns are displayed on hover
+  $(".menu > ul > li").click(function() {
+    if ($(window).width() <= 943) {
+      $(this).children("ul").fadeToggle(150);
+    }
+  });
+  //If width is less or equal to 943px dropdowns are displayed on click (thanks Aman Jain from stackoverflow)
+  $(".menu-mobile").click(function(e) {
+    $(".menu > ul").toggleClass('show-on-mobile');
+    e.preventDefault();
+  });
+  //when clicked on mobile-menu, normal menu is shown as a list, classic rwd menu story (thanks mwl from stackoverflow)
+});
+	  </script>
+	  <script>
+$(function() {
+    $('.menu-btn').click(function() {
+        $(this).toggleClass('active');
+ 
+        if ($(this).hasClass('active')) {
+            $('.gnavi__sp-style').addClass('active');
+        } else {
+            $('.gnavi__sp-style').removeClass('active');
+        }
+    });
+});
+	  </script>
+	  <script>
+	  const $toggleBtns = $('.js-toggle');
+$.each($toggleBtns, (i, el) => {
+  el.addEventListener('touchstart', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const $self = $(e.currentTarget);
+    $self.toggleClass('is-open');
+    $self.next().not(':animated').slideToggle(200);
+  }, { passive: false });
+});
+	  </script>
+	  <script>
+		  $(window).on('load resize', function(){
+	  var winW = $(window).width();
+	  var devW = 767;
+	  if (winW <= devW) {
+	    $(function(){
+      $(".main_nav > .mega_btn").on("click", function() {
+	            $(this).children('.mega_menu').slideToggle();
+	        });
+	    });
+	  } else {
+	    $(function () {
+	      $('.main_nav > .mega_btn').hover(function(){
+	          $(this).children('.mega_menu').stop().slideToggle();
+	          $('body').toggleClass('overlay');
+	      });
+	    });
+	  }
+	});
+	  </script>-->
+
+<script>
+  const swiper = new Swiper(".swiper", {
+  // ページネーションが必要なら追加
+  pagination: {
+    el: ".swiper-pagination"
+  },
+  // ナビボタンが必要なら追加
+  navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev"
+  }
+});
+    </script>
+    <!--<link href="boot/css/bootstrap.min.css" rel="stylesheet">-->
+    <!--<link href="boot/js/bootstrap.min.js" rel="JavaScript">-->
+    <!--<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>-->
+  <script>
+	  $('#mobilemenu').accordion()
+
+$('#mobilemenu .item').click(() => {
+  
+})
+	  </script>
+	
+	</head>
+  <body>
+    {% include _header.html %} 
+    
+    
+    {% include nav.html nav=page.nav %}
+	  <div class="container">
+		  <div class="contents">
+  {{ content }}
+	  </div>
+	  </div>
+    {% include _footer.html %}
+  </body>
+</html>
