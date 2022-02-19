@@ -16,13 +16,13 @@ qmap.pubのみでした。そのため、QAJF独自でQの投稿を集めたペ�
 
 今後ご活用いただけますと幸いです。翻訳者はもちろんokabaeri9111@EriQmapJapanさんに
 
-​なります。qmap.pubを運営してくださっていたqappanonさんに
+なります。qmap.pubを運営してくださっていたqappanonさんに
 
 感謝と祈りと共に始めさせていただきます。
 
 どうぞ宜しくお願いいたします。
 
-​
+
 Qドロップはこちらをご覧ください
  
 QmapJapan.pub
