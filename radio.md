@@ -1,5 +1,7 @@
-
-Radio
+---
+layout: sub
+---
+# Radio
 
 市川うららFM83.0MHz
 
@@ -11,14 +13,17 @@ Radio
 
 ​
 
-出演者：2Hey/イカシー/レイラ　他
+出演者：2Hey/イカシー/　他
 
 ​
 
 ​お便り・問い合わせ：qajfradio@gmail.com
 
 番組放送時 こちらからお聴き頂くことができます。
+<button>
 Radio
-
+</button>
 過去放送分はこちらからお聴き頂くことができます。
-Archive
+<button>
+  Archive
+</button>
