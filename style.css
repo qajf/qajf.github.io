@@ -443,6 +443,20 @@ ul.third-content {
 }
 @media screen and (min-width:480px){
 	
+	.iframe-wrap {
+  position: relative;
+  width: 100%;
+  padding: calc(アイフレームの高さ / アイフレームの横幅 * 100%) 0 0;
+}
+ 
+.iframe-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+	
 	
 ul.navbar.nav {
     display: flex;
