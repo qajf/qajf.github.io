@@ -1,4 +1,6 @@
-
+---
+layout: sub
+---
 ## Contact
 
 お問い合わせ
