@@ -34,7 +34,7 @@ layout: sub
     <div class="imga" style="text-align:center;">
     <img src="images/flyer5.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/young.pdfhttps://www.qajf.epizy.com/?page_id=1640"><span>Download</span></a></p></div>
     			<h2><strong>Q news paper</strong></h2>		
-							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf">Download</button>
+							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf">Download</a></button>
 		
 							<h5 class="font_5">Vol.2 不正選挙の実態</h5>						
 				
