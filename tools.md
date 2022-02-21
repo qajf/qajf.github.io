@@ -11,19 +11,12 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_f50fb96e7818487c91342a7d11d64fa61642046117.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1541"><span>Download</span></a></p></div>
-				
-				
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/uploads/2022/01/ba357d_71014b234cae493f86baf73baa1f7a8f1642046962.jpg"></div><p class="but"><a href="/postcard-4/"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_8e5f4c55f0ae4a8d94a8af7f111bd97411642047065.jpg"></div><p class="but"><a href="/postcard-5/"><span>Download</span></a></p></div>
-    			
-				
-## Flyer		
-				
-			
 <div class="postcard">
     <div class="box">
     <div class="imga" style="text-align:center;">
@@ -34,22 +27,14 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_70bf446399ee47bbad09b0cb47a6b31511642067354.jpg"></div><p class="but"><a href="/flyer-3/"><span>Download</span></a></p></div>
-				
-				
-    <div class="box">
+	<div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_1b5f7ccb819746bc9091cf5970f632ce11642067382.jpg"></div><p class="but"><a href="/flyer-4/"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_9c46e455bcfc43349db881a7aff20d0911642067408.jpg"></div><p class="but"><a href="/flyer-5/"><span>Download</span></a></p></div>
-    			
-							
-				
-			<h2 class="elementor-heading-title elementor-size-default"><strong>Q news paper</strong></h2>		
-		
-							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>						
-				
-			<a href="/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+    			<h2 class="elementor-heading-title elementor-size-default"><strong>Q news paper</strong></h2>		
+							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<a href="/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						Download
 		</span>
 					</a>
