@@ -34,42 +34,29 @@ QT meet up 受付担当窓口
 
 ※この他にもアンチ対策の為、こちらからお聞きする事があります。その際にはご協力いただけると助かります🙏✨
 
-北海道： hokkaido.qajf@gmail.com
+北海道： <a href="mailto:hokkaido.qajf@gmail.com" target="_self">hokkaido.qajf@gmail.com</a>
 
-​
+栃木 :  <a href="mailto:qajftochigi17@gmail.com" target="_self"> qajftochigi17@gmail.com</a>
 
-​​栃木 : qajftochigi17@gmail.com
+東京：  <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 
- 
+神奈川： <a href="mailto:qajf.kanagawa@gmail.com" target="_self">qajf.kanagawa@gmail.com</a>
 
-東京： jgd.tokyo@gmail.com
+千 葉： <a href="mailto:qajf.chiba@gmail.com" target="_self">qajf.chiba@gmail.com</a>
 
-​
+静 岡： <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
-神奈川： qajf.kanagawa@gmail.com
+愛 知： <a href="mailto:qajf.aichi@gmail.com" target="_self">qajf.aichi@gmail.com</a>
 
-​
+大 阪： <a href="mailto:qajf.kinki@gmail.com" target="_self">qajf.kinki@gmail.com</a>
 
-千 葉： qajf.chiba@gmail.com
+九 州： <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
 
-​
+## QT meet up スケジュール
 
-静 岡：qajf.sizuoka@gmail.com
+### 20220214PM更新
 
-​
 
-愛 知： qajf.aichi@gmail.com 
-
-​
-
-大 阪： qajf.kinki@gmail.com
-
-九 州： qajf.declasq@gmail.com
-QT meet up スケジュール
-
-20220214PM更新
-
-​
 
 Qapital東京QTmeetup
 
@@ -79,14 +66,13 @@ Qapital東京QTmeetup
 大阪Q太郎QTmeetup
 2月26日(土)    14:00-17:00 神戸市近辺
 
-​
 
 でくらすぞQ州 QTmeetup
 3月6日（日）   13:00～16:00 福岡市内
  
 
-​
-Q散歩のご案内
+
+## Q散歩のご案内
 
 ※事前の参加申し込み連絡は不要です
 
