@@ -1,6 +1,9 @@
+---
+layout: sub
+---
 <style>
 			
-			.but a {
+　.but a {
   color: #fff;
   font-size: 16px;
   font-weight: bold;
