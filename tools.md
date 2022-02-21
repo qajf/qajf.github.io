@@ -19,12 +19,9 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_8e5f4c55f0ae4a8d94a8af7f111bd97411642047065.jpg"></div><p class="but"><a href="/postcard-5/"><span>Download</span></a></p></div>
-    			</div>
-		</div>
-				</div>
+    			
 				
-			<h2 class="elementor-heading-title elementor-size-default"><strong>Flyer</strong></h2>		
-				</div>
+## Flyer		
 				
 			
 <div class="postcard">
@@ -46,17 +43,14 @@ layout: sub
     <div class="imga" style="text-align:center;">
     <img src="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_9c46e455bcfc43349db881a7aff20d0911642067408.jpg"></div><p class="but"><a href="/flyer-5/"><span>Download</span></a></p></div>
     			
-							</div>
-		</section>
+							
 				
 			<h2 class="elementor-heading-title elementor-size-default"><strong>Q news paper</strong></h2>		
-		</section>
-				
+		
 							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>						
 				
 			<a href="/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Download</span>
+						Download
 		</span>
 					</a>
 		</div>
