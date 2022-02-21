@@ -34,12 +34,12 @@ layout: sub
     <div class="imga" style="text-align:center;">
     <img src="images/flyer5.jpg"></div><p class="but"><a href="/https://www.qajf.epizy.com/?page_id=1640"><span>Download</span></a></p></div>
     			<h2 class="elementor-heading-title elementor-size-default"><strong>Q news paper</strong></h2>		
-							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<button><a href="/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf">
+							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf">
 	Download</button>
 		
 							<h5 class="font_5">Vol.2 不正選挙の実態</h5>						
 				
-			<button><a href="/wp-content/uploads/2022/01/ba357d_7c0bcb45c056427fac87660bf3f5e3fe1.pdf">Download</a></button>
+			<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_7c0bcb45c056427fac87660bf3f5e3fe1.pdf">Download</a></button>
 						
 <h2><strong>絵本</strong></h2>
 
@@ -47,12 +47,12 @@ layout: sub
 
 							<h5 class="font_5">ヤング版 2021.1.14更新</h5>						
 				
-	<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_ee99c24642e64167838cd4ab6addbe1a1.pdf">Download</a></button>
+	<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/young.pdf">Download</a></button>
 						
 							<h5 class="font_5">シニア版 2021.1.14更新</h5>						
 				
 					
-			<button><a href="https://www.qajf.epizy.com//wp-content/uploads/2022/01/ba357d_ee99c24642e64167838cd4ab6addbe1a1.pdf">
+			<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_ee99c24642e64167838cd4ab6addbe1a1.pdf">
 				Download</a></button>
 		
 <
