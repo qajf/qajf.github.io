@@ -1,83 +1,10 @@
 ---
 layout: sub
 ---
-<style>
-			
-　.but a {
-  color: #fff;
-  font-size: 16px;
-  font-weight: bold;
-  background: #61ce70;
-  padding: 10px 0px!important;
-  border-radius: 6px;
-  transition: .3s;
-}
-a:hover {
-  background: #13c3ac;
-}
-    ul.postcard {
-        list-style-type: none;
-    }
-    
-    ul.postcard li {float:left;
-    width:300px;
-    margin-right: 50px;
-    
-   
-    }
-    .imga {
-        height: 250px;
-        margin-bottom: 50px;
-    }
-        .but {
-          border: none!important;
-           
-            text-align:center;
-        }
-        
-        p.but span {
-            
-            padding:10px 60px;
-        }
-        
-        p.but span :hover {
-            background-color: #000;
-        }
-    
-    }    
-        
-    .postcard{
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-.postcard:after{
-  content:"";
-  display:block;
-  width: 32%;
-  height:0;
-}
-.box{
-  width: 32%;
-  height: 100%;
-  background: #fff!important;
-  overflow: hidden;
-  margin-bottom:50px;
-}
-    
- @media screen and (max-width:480px){
-
-.postcard{flex-direction:column;}
-.box{
-    width:100%;
-    }
-}
-</style>
 <div class="postcard">
     <div class="box">
     <div class="imga" style="text-align:center;">
-    <img src="/wp-content/uploads/2022/01/ba357d_9422f5e45e4b450e85ab237cf5b30afb1642044720-2-e1642045133363.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1539"><span>Download</span></a></p></div>
+    <img src="https://www.qajf.epizy.com//wp-content/uploads/2022/01/ba357d_9422f5e45e4b450e85ab237cf5b30afb1642044720-2-e1642045133363.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1539"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="/wp-content/uploads/2022/01/ba357d_2a551d9fb91c4dcab32c36454d819c891642045912.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1540"><span>Download</span></a></p></div>
@@ -95,86 +22,11 @@ a:hover {
     			</div>
 		</div>
 				</div>
-				<div class="elementor-element elementor-element-5d61f8c8 elementor-widget elementor-widget-heading" data-id="5d61f8c8" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><strong>Flyer</strong></h2>		</div>
+				
+			<h2 class="elementor-heading-title elementor-size-default"><strong>Flyer</strong></h2>		
 				</div>
-				<div class="elementor-element elementor-element-75ef7ea2 elementor-widget elementor-widget-html" data-id="75ef7ea2" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-element elementor-element-cf8f62f elementor-widget elementor-widget-html" data-id="cf8f62f" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<style>
+				
 			
-			.but a {
-  color: #fff;
-  font-size: 16px;
-  font-weight: bold;
-  background: #61ce70;
-  padding: 10px 30px;
-  border-radius: 6px;
-  transition: .3s;
-}
-a:hover {
-  background: #13c3ac;
-}
-    ul.postcard {
-        list-style-type: none;
-    }
-    
-    ul.postcard li {float:left;
-    width:300px;
-    margin-right: 50px;
-    
-    border:1px solid;
-    }
-    .imga {
-        height: 250px;
-        margin-bottom: 50px;
-    }
-        .but {
-          
-           border:1px solid;
-            text-align:center;
-        }
-        
-        p.but span {
-            
-            padding:10px 60px;
-        }
-        
-        p.but span :hover {
-            background-color: #000;
-        }
-        
-        
-    .postcard{
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-.postcard:after{
-  content:"";
-  display:block;
-  width: 32%;
-  height:0;
-}
-.box{
-  width: 32%;
-  height: 100%;
-  background: #3D9FB1;
-  overflow: hidden;
-  margin-bottom:50px;
-}
-    
- @media screen and (max-width:480px){
-
-.postcard{flex-direction:column;}
-.box{
-    width:100%;
-    }
-}
-</style>
 <div class="postcard">
     <div class="box">
     <div class="imga" style="text-align:center;">
@@ -202,33 +54,12 @@ a:hover {
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2946b5bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2946b5bd" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42f701f1" data-id="42f701f1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-458f9dcc elementor-widget elementor-widget-heading" data-id="458f9dcc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><strong>Q news paper</strong></h2>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
+				
+			<h2 class="elementor-heading-title elementor-size-default"><strong>Q news paper</strong></h2>		
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-259988ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="259988ba" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-714c52b0" data-id="714c52b0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-73a0d313 elementor-widget elementor-widget-text-editor" data-id="73a0d313" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-72f45848" data-id="72f45848" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-291dee5e elementor-align-center elementor-widget elementor-widget-button" data-id="291dee5e" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
+				
+							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>						
+				
 			<a href="/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Download</span>
