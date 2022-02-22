@@ -378,7 +378,9 @@ a:hover {
 .inside-footer-widgets {
     display: block;
   
-}	
+}
+	.nav li {
+		margin-right:0.3em;
 		
 }
 
@@ -541,7 +543,7 @@ ul.third-content {
     display:block;
 }
 
-@media screen and (min-width:80px){
+@media screen and (min-width:480px){
 	
 	
 	
