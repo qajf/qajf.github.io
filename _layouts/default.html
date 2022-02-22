@@ -38,6 +38,14 @@
 	jQuery(document).ready(function () {
 	jQuery('header nav').meanmenu();
 });
+		  $('nav').meanmenu({
+    meanMenuClose: "x", // クローズボタン
+    meanMenuCloseSize: "18px", // クローズボタンのフォントサイズ
+    meanMenuOpen: "<span /><span /><span />", // 通常ボタン
+    meanRevealPosition: "right", // 表示位置
+    meanRevealColour: "#ff000", // 背景色
+    meanScreenWidth: "680", // 表示させるウィンドウサイズ(ブレイクポイント)
+});
 	  </script>
 <!-- bxSlider Javascript file -->
 <script src="/js/jquery.bxslider.min.js"></script>
@@ -65,21 +73,9 @@
 });
 	  });
   </script>
-	  <!--<script>
-		  $(function () {
-2
-	  $('.main_nav > .mega_btn').hover(function(){
-3
-	      $(this).children('.mega_menu').stop().slideToggle();
-4
-	      $('body').toggleClass('overlay');
-5
-	  });
-6
-	});
-	  </script>
+	 
 	  
-	  <script>
+	  <!--<script>
 		  /*global $ */
 $(document).ready(function() {
 
