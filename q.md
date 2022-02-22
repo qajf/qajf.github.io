@@ -2,9 +2,8 @@
 layout: sub
 ---
 
-<img src="images/q1.png">
-What is
-Q-Movement？
+<img src="images/q1.png" style="text-align:left">
+## What is Q-Movement？
   
 
 概要 - Qムーヴメントとは、
@@ -12,6 +11,6 @@ Q-Movement？
 全世界で展開されている軍事作戦である
 
 
-LEARN MORE
+<!-<button>LEARN MORE</button>-->
   
   
