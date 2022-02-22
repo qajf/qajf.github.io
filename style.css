@@ -349,13 +349,7 @@ a:hover {
   margin-bottom:50px;
 }
 
-/* 画面サイズが768px以下の場合に適用 */
-@media only screen and (max-width: 768px) {
-	.nav li {
-		width: 25%;
-		border-bottom: 1px solid #4baacb;
-	}
-}
+/
     
  @media screen and (max-width:480px){
 
@@ -380,7 +374,7 @@ a:hover {
   
 }
 	
-
+}
 /* 多階層　*/
 
 
