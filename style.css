@@ -841,3 +841,18 @@ h3.link {
   }
 
 }
+
+@media screen and (min-width:1020px){
+   .nav li {
+   osition: relative;
+   margin-right: 1em!important;
+}
+
+nav.gnavi__pc-style {
+    float: right;
+    /* width: 70%; */
+}
+
+
+}
+
