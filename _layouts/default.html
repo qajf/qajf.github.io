@@ -34,10 +34,22 @@
 	  <script src="js/jquery.meanmenu.js"></script>	
 	  <!--<link href="css/meanmenu.min.css" rel="stylesheet">-->
 	  <link rel="stylesheet" href="css/meanmenu.css" media="all" />
-	  <script>
+	  <!--<script>
 	jQuery(document).ready(function () {
 	jQuery('header nav').meanmenu();
 });
+		  
+	  </script>-->
+	  <script>
+	 jQuery('header nav').meanmenu({
+			meanMenuClose: "x", // クローズボタン
+    meanMenuCloseSize: "118px", // クローズボタンのフォントサイズ
+    meanMenuOpen: "<span /><span /><span />", // 通常ボタン
+    meanRevealPosition: "right", // 表示位置
+    meanRevealColour: "#ff0000", // 背景色
+    meanScreenWidth: "680", // 表示させるウィンドウサイズ(ブレイクポイント)
+		});
+	});
 		  
 	  </script>
 	  <script>
