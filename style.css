@@ -532,7 +532,7 @@ ul.third-content {
     display:block;
 }
 
-@media screen and (min-width:481px) and ( max-width:780px){
+@media screen and (min-width:680px) and ( max-width:780px){
 
   header {
   /* border:1px solid #000; */ 
