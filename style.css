@@ -543,9 +543,9 @@ ul.third-content {
 
   .h_top {
     display:block;
-    height: 109px;
-    margin:0 auto;
-  }
+    /* height: 109px; */
+    /* margin:0 auto; 
+  }*/
   .h_left{
     float:none;
     border:1px solid;
@@ -570,13 +570,13 @@ ul.third-content {
 
   .h_top {
     display:block;
-    height: 109px;
-    margin:0 auto;
+   /* height: 109px; */
+    /* margin:0 auto; */
   }
   .h_left{
     float:none;
-    border:1px solid;
-    width:100%;
+   border:1px solid; +/
+   width:100%;
   }
 
   .gnavi__pc-style {
