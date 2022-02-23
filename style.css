@@ -559,6 +559,119 @@ ul.third-content {
     width: 100%!i;
     width: 100%!important;
   }
+	
+	@media screen and (min-width:81px) and ( max-width:780px){
+
+  header {
+  /* border:1px solid #000; */ 
+  height:auto;
+}
+
+  .h_top {
+    display:block;
+    height: 109px;
+    margin:0 auto;
+  }
+  .h_left{
+    float:none;
+    border:1px solid;
+    width:100%;
+  }
+
+  .gnavi__pc-style {
+    float:none;
+    display:block;
+    /* border:10px solid #000; */
+    width: 100%!i;
+    width: 100%!important;
+  }
+
+  
+ul.navbar.nav {
+    display: flex;
+    position: relative;
+}
+
+  .nav li {
+   osition: relative;
+   margin-right: 2em;
+}
+
+  .nav li a {
+    position: relative;
+    display: block;
+    /* text-align: center;*/
+   /* line-height: 25px; */
+	  text-decoration:none;
+  }
+
+  .nav .dropdown-menu {
+    visibility: hidden;
+    opacity: 0;
+    z-index: 1;
+    display: block;
+    position: absolute;
+    top: 50px;
+    /* left: 50%; */
+    margin-left: -100px;
+    width: 200px;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+    background: #fff;
+    text-align: center;
+}
+  .nav .dropdown-menu a {
+    padding: 10px;
+    display: block;
+    border-bottom: none;
+    padding: 20px;
+    line-height: 1.2em;
+}
+
+.nav .dropdown-menu li {
+    display: block;
+    font-size: 16px;
+   
+}  
+
+ .nav li:hover ul.dropdown-menu {
+    top: 40px;
+    visibility: visible;
+    opacity: 1;
+    z-index: 9999; 
+}
+
+.nav ul > li:hover {
+    -webkit-transition: all .5s;
+    transition: all .5s;
+  }
+  .nav ul > li:hover a,.nav .current-menu-item a,.nav .current-menu-parent a {
+    color: #bfd0ff;
+  }
+  .nav li:hover ul.dropdown-menu {
+    top: 80px;
+    visibility: visible;
+    opacity: 1;
+    z-index: 9999;
+  }
+  .nav li ul li:after {
+    content: none;
+  }
+ .nav li:hover ul.dropdown-menu a {
+    color: #111;
+  }
+  .nav .dropdown-menu li a:hover {
+    background: #fff;
+  }
+  #gNav .contact_btn a:hover {
+    color: #fff;
+  }
+	
+	.nav li:hover {
+		border-bottom:3px solid #000; 
+	}
+}
+
 }
 
 @media screen and (min-width:680px){
