@@ -534,10 +534,10 @@ ul.third-content {
     display:block;
 }
 
-@media screen and (min-width:680px){
-	
-	header {
-  border:1px solid #000; 
+@media screen and (min-width:481px) and ( max-width:780px){
+
+  header {
+  /* border:1px solid #000; */ 
   height:auto;
 }
 
@@ -555,10 +555,14 @@ ul.third-content {
   .gnavi__pc-style {
     float:none;
     display:block;
-    border:10px solid #000;
+    /* border:10px solid #000; */
     width: 100%!i;
     width: 100%!important;
   }
+}
+
+@media screen and (min-width:680px){
+	
 	
 	
 	
