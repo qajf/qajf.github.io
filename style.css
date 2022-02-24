@@ -566,6 +566,11 @@ ul.third-content {
     width: 100%!important;
   }
 	
+	.nav li {
+    osition: relative;
+    margin-right: 13px;
+}
+	
 	@media screen and (min-width:81px) and ( max-width:780px){
 
   header {
