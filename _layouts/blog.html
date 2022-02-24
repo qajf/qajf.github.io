@@ -194,9 +194,11 @@ $('#mobilemenu .item').click(() => {
 layout: default
 title: Blog
 ---
-<h1>Latest Posts</h1>
-
-<ul>
+			  
+<h1>最近の投稿</h1>
+<div class="container">
+		  <div class="contents">
+  <ul>
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -206,6 +208,8 @@ title: Blog
 </ul>
 	  </div>
 	  </div>
+
+	 
     {% include _footer.html %}
   </body>
 </html>
