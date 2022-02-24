@@ -550,11 +550,11 @@ ul.third-content {
   .h_top {
     display:block;
     height: 109px;
-    margin:0 auto;
+   /* margin:0 auto; 
   }
   .h_left{
     float:none;
-    border:1px solid;
+    border*/:1px solid;
     width:100%;
   }
 
@@ -576,7 +576,7 @@ ul.third-content {
   .h_top {
     display:block;
     height: 109px;
-    margin:0 auto;
+   /* margin:0 auto; */
   }
   .h_left{
     float:none;
