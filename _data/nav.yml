@@ -46,8 +46,6 @@
   target: _blank
 - title: Tools
   url: tools.html
-- title: Blog
-  url: Blog
 - title: "Link"
   url: link.html
   sublinks:
