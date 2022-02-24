@@ -25,7 +25,8 @@ qmap.pubのみでした。そのため、QAJF独自でQの投稿を集めたペ�
 
 Qドロップはこちらをご覧ください
 
- 
-QmapJapan.pub
+<button><a href="https://qajf-qmapjapan-pub.officialblog.jp" target="_blank">QmapJapan.pub</a></button>
+
 海外サイトにも日本語訳を投稿しています
-QPosts.in
+
+<button><a href="https://qposts.in/japanese" target="_blank">QPost.in</a></button>
