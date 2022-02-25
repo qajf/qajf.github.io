@@ -23,9 +23,9 @@ layout: sub
 
 番組放送時 こちらからお聴き頂くことができます。
 <button>
-Radio
+  <a href="https://www.jcbasimul.com/?radio=fm%E3%81%86%E3%82%89%E3%82%89" target="_blank">Radio</a>
 </button>
 過去放送分はこちらからお聴き頂くことができます。
 <button>
-  Archive
+  <a href="http://www.fmu.co.jp/redpillradio.html" target="_blank">Archive</a>
 </button>
