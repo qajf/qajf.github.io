@@ -1,6 +1,15 @@
 ---
 layout: sub
 ---
+ダウンロードしてお使いください。現実世界でもQムーヴメントを広げていきましょう！
+​(商用利用不可)
+
+​
+
+​ex)ポストカードに印刷して友人に手紙を書いてみる/家族の目に触れるところに貼ってみる
+
+    職場にこっそり置いてみる等
+    <h2><strong>Placard</strong></h2>
 <div class="postcard">
     <div class="box">
     <div class="imga" style="text-align:center;">
@@ -17,7 +26,8 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/post5.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1626"><span>Download</span></a></p></div>
-<div class="postcard">
+<h2><strong>Flyer</strong></h2>
+	<div class="postcard">
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer1.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1636"><span>Download</span></a></p></div>
@@ -54,4 +64,4 @@ layout: sub
 			<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_ee99c24642e64167838cd4ab6addbe1a1.pdf">
 				Download</a></button>
 		
-<
+
