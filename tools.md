@@ -9,7 +9,7 @@ layout: sub
 ​ex)ポストカードに印刷して友人に手紙を書いてみる/家族の目に触れるところに貼ってみる
 
     職場にこっそり置いてみる等
-    <h2><strong>Placard</strong></h2>
+<h2><strong>Placard</strong></h2>
 <div class="postcard">
     <div class="box">
     <div class="imga" style="text-align:center;">
