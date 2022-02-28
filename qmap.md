@@ -29,4 +29,4 @@ Qドロップはこちらをご覧ください
 
 海外サイトにも日本語訳を投稿しています
 
-<button><a href="https://qposts.in/japanese" target="_blank">QPost.in</a></button>
+<button><a href="https://qposts.in/japanese" target="_blank">QPosts.in</a></button>
