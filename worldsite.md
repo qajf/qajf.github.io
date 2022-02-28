@@ -14,13 +14,9 @@ layout: sub
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://www.jtwilde.com" target="_blank" rel="noopener">J.T. Wilde</a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="http://prayingmedic.com" target="_blank" rel="noopener">Praying Medic</a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="http://www.magapill.com" target="_blank" rel="noopener">MAGAPILL</a></h3>
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://www.blue-eyes.us" target="_blank" rel="noopener">&ZeroWidthSpace;Blue Eyes</a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://qposts.in/japanese" target="_blank" rel="noopener">Posts.in</a></h3>
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://www.qproofs.com" target="_blank" rel="noopener">Qproofs</a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://www.theorionlines.com/" target="_blank" rel="noopener">&ZeroWidthSpace;ORION &nbsp;LINES</a></h3>
-
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://george-news-2021.blogspot.com/" target="_blank" rel="noopener">GEORGE NEWS RADIO</a></h3>
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://mikeflynndefensefund.org" target="_blank" rel="noopener">MICHAL T. FLYNN LEGAL DEFENSE FUND</a></h3>
+<!--<h3 class="font_2 link" style="font-size: 20px;"><a href="https://mikeflynndefensefund.org" target="_blank" rel="noopener">MICHAL T. FLYNN LEGAL DEFENSE FUND</a></h3>-->
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://www.republictownsquare.com" target="_blank" rel="noopener">&ZeroWidthSpace;Republic Town Square</a></h3>
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://eyedropmedia.com/about" target="_blank" rel="noopener">EYE DROP MEDIA</a></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://eyedropmedia.com/" target="_blank" rel="noopener">EYE DROP MEDIA</a></h3>
  
