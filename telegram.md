@@ -4,8 +4,7 @@ layout: sub
 
 ## Telegram Channel
 
-Telegramを使って、情報発信をしています。また、chat上でアノンさんと交流し、日々活発なやり取りがされています。
-よろしければ、登録をお願いします。
+QArmyJapanFlynn は Telegram で情報発信をしています。また、chat上でアノンさんと交流し、日々活発な会話がなされています。 ぜひご登録ください。
 
 
 
