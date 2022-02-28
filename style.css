@@ -911,3 +911,31 @@ h2 span:after {
 }
 
 }
+
+/* blog */
+
+.b-container {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 0 auto;
+  max-width: 1080px;
+}
+.main-contents {
+  width: calc(100% - 300px);
+}
+.sidebar {
+  width: 300px;
+}
+@media screen and (max-width: 767px) {
+  .b-container {
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+  }
+  .main-contents,
+  .sidebar {
+    width: 100%;
+  }
