@@ -930,6 +930,10 @@ h2 span:after {
 }
 @media screen and (max-width: 767px) {
   .b-container {
+	  background-color: #f5f4f5;
+	width:100%;
+	border: 1px solid;
+	ovweflow: hidden;
     -ms-flex-direction: column;
     -webkit-flex-direction: column;
     flex-direction: column;
