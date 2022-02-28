@@ -9,7 +9,7 @@ Telegramを使って、情報発信をしており、また、chat上でアノ�
 
 
 [🐸QAJF公式Telegramチャンネル]
-[https://t.me/QArmyJapanFlynn]
+(https://t.me/QArmyJapanFlynn)
 
 🐸QAJFチャット
 https://t.me/QArmyJapanFlynnChat
