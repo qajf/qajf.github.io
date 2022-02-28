@@ -920,12 +920,12 @@ h2 span:after {
   display: -webkit-flex;
   display: flex;
   margin: 0 auto;
-  max-width: 1080px;
+  width:100%;
 	background-color: #f5f4f5;
 }
 .main-contents {
   width: calc(100% - 300px);
-	margin-left:5%;
+	/* margin-left:5%; */
 	
 	 margin: 20px;
     padding: 20px;
@@ -942,7 +942,7 @@ h2 span:after {
 @media screen and (max-width: 767px) {
   .b-container {
 	  background-color: #f5f4f5;
-	width:100%;
+	
 
 	ovweflow: hidden;
     -ms-flex-direction: column;
