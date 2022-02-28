@@ -12,7 +12,7 @@ Telegramを使って、情報発信をしており、また、chat上でアノ�
 (https://t.me/QArmyJapanFlynn)
 
 🐸QAJF公式Telegramチャンネル
-[https://t.me/QArmyJapanFlynn](https://t.me/QArmyJapanFlynn)
+[https://t.me/QArmyJapanFlynn](https://t.me/QArmyJapanFlynn){:target="_blank"}
 
 🐸QAJFチャット
 https://t.me/QArmyJapanFlynnChat
