@@ -8,8 +8,8 @@ Telegramを使って、情報発信をしており、また、chat上でアノ�
 よろしければ、登録をお願いします。
 
 
-🐸QAJF公式Telegramチャンネル
-https://t.me/QArmyJapanFlynn
+[🐸QAJF公式Telegramチャンネル]
+[https://t.me/QArmyJapanFlynn]
 
 🐸QAJFチャット
 https://t.me/QArmyJapanFlynnChat
