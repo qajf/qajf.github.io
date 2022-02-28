@@ -3,6 +3,8 @@
   sublinks:
     - title: event
       url: /event.html
+    - title: Telegram
+      url: /telegram.html
 - title: Q
   url: /q.html
   sublinks:
