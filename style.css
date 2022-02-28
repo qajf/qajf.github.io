@@ -884,7 +884,7 @@ nav.gnavi__pc-style {
 
 }
 
-@media screen and (max-width:480px and min-width:700px){
+@media screen and (max-width:860px){
 
   h2 span {
     position:relative;
