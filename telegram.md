@@ -4,12 +4,11 @@ layout: sub
 
 ## Telegram Channel
 
-Telegramを使って、情報発信をしており、また、chat上でアノンさんと交流しております。
+Telegramを使って、情報発信をしています。また、chat上でアノンさんと交流し、日々活発なやり取りがされています。
 よろしければ、登録をお願いします。
 
 
-[🐸QAJF公式Telegramチャンネル]
-(https://t.me/QArmyJapanFlynn)
+
 
 🐸QAJF公式Telegramチャンネル
 [https://t.me/QArmyJapanFlynn](https://t.me/QArmyJapanFlynn){:target="_blank"}
