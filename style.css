@@ -921,6 +921,7 @@ h2 span:after {
   display: flex;
   margin: 0 auto;
   max-width: 1080px;
+	background-color: #f5f4f5;
 }
 .main-contents {
   width: calc(100% - 300px);
