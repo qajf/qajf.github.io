@@ -927,12 +927,17 @@ h2 span:after {
   width: calc(100% - 300px);
 	margin-left:5%;
 	
-	margin:50px auto;
-	padding;30px;
+	 margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
 	background:#fff;
 }
 .sidebar {
   width: 300px;
+	margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #fff;
 }
 @media screen and (max-width: 767px) {
   .b-container {
@@ -948,4 +953,6 @@ h2 span:after {
   .main-contents,
   .sidebar {
     width: 100%;
+	 background: #fff; 
+	  
   }
