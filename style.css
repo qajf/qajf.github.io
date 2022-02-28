@@ -952,8 +952,8 @@ h2 span:after {
   }
   .main-contents,
   .sidebar {
-    width: 100%;
-	  margin:5%;
+    width: 90%;
+	 
 	  box-sizing:border-box;
 	 background: #fff; 
 	  
