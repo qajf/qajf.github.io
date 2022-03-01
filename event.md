@@ -65,6 +65,10 @@ QANAG1WGA神奈川 QTmeetup
 静岡Qエスト QTmeetup
 3月26日(土)13:00〜16:00　静岡市
 
+#### 4月
+栃木Qberry QTmeetup 
+4月17日(日) 14時〜17時 小山市
+
  
 
 
