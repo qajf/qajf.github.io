@@ -62,6 +62,9 @@ QT meet up 受付担当窓口
 QANAG1WGA神奈川 QTmeetup
 3月22日(火) 14:00~ 藤沢/平塚エリア
 
+静岡Qエスト QTmeetup
+3月26日(<p style="color:#0000ff">土</p>)13時〜16時　静岡市
+
  
 
 
