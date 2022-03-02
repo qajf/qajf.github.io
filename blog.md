@@ -1,6 +1,5 @@
 ---
 layout: blog
-title: Blog
 ---
 <h1>最近の投稿</h1>
 
