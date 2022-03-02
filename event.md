@@ -36,7 +36,7 @@ QT meet up 受付担当窓口
 
 北海道： <a href="mailto:hokkaido.qajf@gmail.com" target="_self">hokkaido.qajf@gmail.com</a>
 
-栃木 :  <a href="mailto:qajftochigi17@gmail.com" target="_self"> qajftochigi17@gmail.com</a>
+栃木 :  <a href="mailto:qajftochigi17@gmail.com" target="_self">qajftochigi17@gmail.com</a>
 
 東京：  <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 
