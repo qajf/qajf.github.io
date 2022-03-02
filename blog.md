@@ -1,7 +1,7 @@
 ---
 layout: blog
 ---
-<h1>最近の投稿</h1>
+<h1>a最近の投稿</h1>
 
 <ul>
   {% for post in site.posts %}
