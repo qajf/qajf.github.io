@@ -57,7 +57,7 @@ QT meet up 受付担当窓口
 ### 2022/03/02更新
 
 でくらすぞQ州 QTmeetup
-3月6日（日）   13:00～16:00 福岡市内
+3月6日（<font color="#ff0000">日</font>）   13:00～16:00 福岡市内
 
 QANAG1WGA神奈川 QTmeetup
 3月22日(火) 14:00~ 藤沢/平塚エリア
@@ -67,7 +67,7 @@ QANAG1WGA神奈川 QTmeetup
 
 #### 4月
 栃木Qberry QTmeetup 
-4月17日(日) 14時〜17時 小山市
+4月17日(<font color="#ff0000">日</font>) 14時〜17時 小山市
 
  
 
