@@ -196,6 +196,19 @@ $('#mobilemenu .item').click(() => {
 <div class="blog-container">
 		 
 			  <div class="img_side">
+				  {% unless include.lightbox == "true" %}
+  {% unless include.src contains 'http' %}
+  <img width="{{ include.width }}" src="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" alt="{{ include.title }}"/>
+  {% else %}
+  <img width="{{ include.width }}" src="{{ include.src }}" alt="{{ include.title }}"/>
+  {% endunless %}
+{% else %}
+  {% unless include.src contains 'http' %}
+  <a href="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" data-lightbox="{{ include.data }}" data-title="{{ include.title }}"><img width="{{ include.width }}" src="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" alt="{{ include.title }}"/></a>
+  {% else %}
+  <a href="{{ include.src }}" data-lightbox="{{ include.data }}" data-title="{{ include.title }}"><img width="{{ include.width }}" src="{{ include.src }}" alt="{{ include.title }}"/></a>
+  {% endunless %}
+{% endunless %}
 				  <figure>
         <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
         {% if page.fig-caption %}
