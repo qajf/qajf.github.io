@@ -196,7 +196,12 @@ $('#mobilemenu .item').click(() => {
 <div class="blog-container">
 		 
 			  <div class="img_side">
-				  aaa
+				  <figure>
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        {% if page.fig-caption %}
+          <figcaption>{{page.fig-caption}}</figcaption>
+        {% endif %}
+      </figure>
 			  </div>
 <div class="blog-contents">
   <ul>
