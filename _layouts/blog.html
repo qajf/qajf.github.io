@@ -183,7 +183,7 @@ $('#mobilemenu .item').click(() => {
 	  </script>
 	
 	</head>
-  <body>
+  <body><img src="{{ '/assets/img/' | prepend: site.baseurl | append: post.image }}" alt="" />
     {% include _header.html %} 
     
     
@@ -222,6 +222,7 @@ $('#mobilemenu .item').click(() => {
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	    <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+	    <img src="{{ '/assets/img/' | prepend: site.baseurl | append: post.image }}" alt="" />
       {{ post.excerpt }}
     </li>
   {% endfor %}
