@@ -66,8 +66,14 @@ QANAG1WGA神奈川 QTmeetup
 3月26日(<font color="#0000ff">土</font>)13:00〜16:00　静岡市
 
 #### 4月
+
+Qapital東京 QTmeetup 
+4月10日(<font color="#ff0000">日</font>) 13時〜16時 渋谷区
+
 栃木Qberry QTmeetup 
 4月17日(<font color="#ff0000">日</font>) 14時〜17時 小山市
+
+
 
  
 
