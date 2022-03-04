@@ -10,6 +10,12 @@ plugins: # 使用するプラグインがあればここに追加します
   - jekyll-feed
 markdown: kramdown
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
