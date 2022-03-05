@@ -195,36 +195,20 @@ $('#mobilemenu .item').click(() => {
 <h1>sa最近の投稿</h1>
 <div class="blog-container">
 		 
-			  <div style="height:100px;">
+			 
 				 
-				  {% unless include.lightbox == "true" %}
-  {% unless include.src contains 'http' %}
-  <img width="{{ include.width }}" src="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" alt="{{ include.title }}"/>
-  {% else %}
-  <img width="{{ include.width }}" src="{{ include.src }}" alt="{{ include.title }}"/>
-  {% endunless %}
-{% else %}
-  {% unless include.src contains 'http' %}
-  <a href="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" data-lightbox="{{ include.data }}" data-title="{{ include.title }}"><img width="{{ include.width }}" src="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" alt="{{ include.title }}"/></a>
-  {% else %}
-  <a href="{{ include.src }}" data-lightbox="{{ include.data }}" data-title="{{ include.title }}"><img width="{{ include.width }}" src="{{ include.src }}" alt="{{ include.title }}"/></a>
-  {% endunless %}
-{% endunless %}
-				  <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-        {% if page.fig-caption %}
-          <figcaption>{{page.fig-caption}}</figcaption>
-        {% endif %}
-      </figure>
+				 
 			  </div>
 <div class="blog-contents">
   <ul>
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	     <div style="height:100px;">
 	    {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
 	    {% assign image_files = site.static_files | where: "image", true %}
  <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
+	    </div>
 	    
       {{ post.excerpt }}
     </li>
