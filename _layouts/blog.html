@@ -226,6 +226,9 @@ $('#mobilemenu .item').click(() => {
 {% for myimage in image_files %}
   <img src="{{ myimage.path }}">
 {% endfor %}
+{% for myimage in image_files %}
+  <img src="{{ site.baseurl }}/{{ page.image }}">
+{% endfor %}	    
 	    <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
 	    <img src="{{ '/assets/img/' | prepend: site.baseurl | append: post.image }}" alt="" />
       {{ post.excerpt }}
