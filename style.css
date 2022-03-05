@@ -961,6 +961,13 @@ h2 span:after {
 }
 	
 /* blog */
+
+.blog-contents {
+    display: flex;
+    height: 300px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
 	
 .blog-contents li {
     display: flex;
