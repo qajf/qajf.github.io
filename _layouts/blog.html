@@ -223,13 +223,7 @@ $('#mobilemenu .item').click(() => {
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	    {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
 	    {% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  <img src="{{ myimage.path }}">
-{% endfor %}
-{% for myimage in image_files %}
-  <img src="{{ page.image }}">
-{% endfor %}	    
-	    <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+
 	    <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
       {{ post.excerpt }}
     </li>
