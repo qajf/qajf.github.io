@@ -958,10 +958,11 @@ h2 span:after {
 	 background: #fff; 
 	  
   }
+}
 	
 /* blog */
 	
-.blog-contents ul {
+.blog-contents li {
     display: flex;
 }
 	
