@@ -195,7 +195,8 @@ $('#mobilemenu .item').click(() => {
 <h1>sa最近の投稿</h1>
 <div class="blog-container">
 		 
-			  <div class="img_side">
+			  <div style="height:100px;">
+				  <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
 				  {% unless include.lightbox == "true" %}
   {% unless include.src contains 'http' %}
   <img width="{{ include.width }}" src="{{ '/assets/img/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" alt="{{ include.title }}"/>
@@ -224,7 +225,7 @@ $('#mobilemenu .item').click(() => {
 	    {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
 	    {% assign image_files = site.static_files | where: "image", true %}
 
-	    <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
+	    
       {{ post.excerpt }}
     </li>
   {% endfor %}
