@@ -958,3 +958,23 @@ h2 span:after {
 	 background: #fff; 
 	  
   }
+	
+/* blog */
+	
+.image_box {
+    object-fit: cover;
+    width: 300px;
+}
+
+.blogbox {
+    display: flex;
+}
+
+h2.blog_style {
+    margin: 0;
+    padding: 0;
+}
+
+.content_box {
+    padding: 0 0 10px 20px;
+}
