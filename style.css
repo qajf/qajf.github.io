@@ -967,6 +967,7 @@ h2 span:after {
     height: 300px;
     border: 1px solid #ddd;
     margin-bottom: 20px;
+	flex-direction:column;
 }
 	
 .blog-contents li {
@@ -1009,8 +1010,8 @@ h2.blog_style {
 
 @media screen and (max-width: 767px){
 .blog-contents {
-    display: block;
-    height: auto;
+    
+  
     border: 1px solid #ddd;
     margin-bottom: 20px;
 	}	
