@@ -1020,5 +1020,10 @@ h2.blog_style {
     max-height: 300px;
     overflow: hidden;
 }
+	.image_box img {
+    object-fit: contain;
+    height: auto;
+}
+
 
 }
