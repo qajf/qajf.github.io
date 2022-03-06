@@ -1009,6 +1009,10 @@ h2.blog_style {
 }
 
 @media screen and (max-width: 767px){
+	.blog-container ul {
+		margin:0;
+		padding:0;
+	}
 .blog-contents {
     flex-direction:column;
   height:auto;
