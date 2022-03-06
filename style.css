@@ -1017,7 +1017,11 @@ h2.blog_style {
 	.image_box img {
    
 		max-width:100%;
-   height:auto!important;
+   /* height:auto!important;*/
+		
+    height: 300px;
+    object-fit: cover;
+}
 }
 .image_box {
     
