@@ -1026,5 +1026,9 @@ h2.blog_style {
     overflow: hidden;
     /* height: 400px; */
 }
+	
+	.content_box {
+ height:300px;
+}
 
 }
