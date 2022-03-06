@@ -1029,7 +1029,7 @@ h2.blog_style {
 
 .image_box {
     
-    width:100%;
+    max-width:100%;
     max-height: 345px;
     overflow: hidden;
   
