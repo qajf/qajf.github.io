@@ -1020,8 +1020,8 @@ h2.blog_style {
     hheight: 400px;
 }
 .image_box {
-    /* object-fit: cover; */
-    /* max-width: 100%; */
+    
+    max-width: 100%;
     max-height: 345px;
     overflow: hidden;
     /* height: 400px; */
