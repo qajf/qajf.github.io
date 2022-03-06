@@ -990,3 +990,15 @@ h2.blog_style {
 .content_box {
     padding: 0 0 10px 20px;
 }
+
+.image_box img {
+    object-fit: contain;
+    height: 300px;
+}
+
+.image_box {
+    /* object-fit: cover; */
+    max-width: 315px;
+    /* max-height: 300px; */
+    overflow: hidden;
+}
