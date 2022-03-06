@@ -226,6 +226,17 @@ $('#mobilemenu .item').click(() => {
   {% for post in site.posts %}
     <li>
 	     <div class="blog-contents">
+		     {% if page.image %}
+
+            {% if site.lazyimages == "enabled" %}
+		     <div class="image_box">
+            <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
+            {% else %}
+            <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
+		     </div>
+            {% endif %}
+
+            {% endif %}
 <div class="image_box">
          {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
 	    {% assign image_files = site.static_files | where: "image", true %}
