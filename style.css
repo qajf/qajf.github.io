@@ -264,7 +264,7 @@ button:hover {
   text-align: center;
 }
 img {
-  max-width: 100%;
+  /* max-width: 100%; */
   height: auto;
 }
 .item p {
