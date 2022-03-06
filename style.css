@@ -1002,3 +1002,7 @@ h2.blog_style {
     /* max-height: 300px; */
     overflow: hidden;
 }
+
+.b-container img {
+    max-width:100%;
+}
