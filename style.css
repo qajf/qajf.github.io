@@ -1011,13 +1011,13 @@ h2.blog_style {
 @media screen and (max-width: 767px){
 .blog-contents {
     flex-direction:column;
-  
+  height:auto;
 	}	
 	
 	.image_box img {
-    object-fit: contain;
+   
 		max-width:100%;
-    height: auto;
+    height: 400px;
 }
 .image_box {
     /* object-fit: cover; */
