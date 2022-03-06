@@ -3,7 +3,7 @@ layout: sub
 ---
 # Radio
 
-<img src="images/radio.jpg">
+<img src="images/radio.jpg" style="max-width:100%;">
 
 市川うららFM83.0MHz
 
@@ -29,3 +29,12 @@ layout: sub
 <button>
   <a href="http://www.fmu.co.jp/redpillradio.html" target="_blank">Archive</a>
 </button>
+レッドピルラジオショーHPはこちらから
+<button>
+  <a href="https://redpill-radio.info/" target="_blank">Radio</a>
+</button>
+Youtube 配信 17chはこちらから　
+<button>
+  <a href="https://www.youtube.com/channel/UCHGs107YRS63H516bE1EGhA" target="_blank">Radio</a>
+</button>
+
