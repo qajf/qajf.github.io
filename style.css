@@ -1006,3 +1006,12 @@ h2.blog_style {
 .b-container img {
     max-width:100%;
 }
+
+@media screen and (max-width: 767px){
+.blog-contents {
+    display: block;
+    height: auto;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+}
