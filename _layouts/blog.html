@@ -46,8 +46,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" />
 	  <!--<script src="js/jquery.meanmenu.min.js"></script>-->
- <script src="js/jquery.meanmenu.js"></script>	
-	  <!--<link href="css/meanmenu.min.css" rel="stylesheet">-->
+ <script src="/js/jquery.meanmenu.js"></script>	
+	  <!--<link href="/css/meanmenu.min.css" rel="stylesheet">-->
 	  <link rel="stylesheet" href="css/meanmenu.css" media="all" />
 <script>
 		  jQuery(document).ready(function () {
@@ -62,7 +62,7 @@
 	});
 		  
 	  </script>
-	  <script>
+	  <!--<script>
 		  jQuery(document).ready(function (){
 		  $('nav').meanmenu({
     meanMenuClose: "x", // クローズボタン
@@ -72,7 +72,7 @@
     meanRevealColour: "", // 背景色
     meanScreenWidth: "780", // 表示させるウィンドウサイズ(ブレイクポイント)
 });
-	  </script>
+	  </script>-->
 
     
     <link
@@ -226,20 +226,8 @@ $('#mobilemenu .item').click(() => {
   {% for post in site.posts %}
     <li>
 	     <div class="blog-contents">
-		     {% if page.image %}
-
-            {% if site.lazyimages == "enabled" %}
-		     <div class="image_box">
-            <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
-            {% else %}
-            <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
-		     </div>
-            {% endif %}
-
-            {% endif %}
-
-         {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-	    {% assign image_files = site.static_files | where: "image", true %}
+		     
+        
 		     <div class="image_box">
  <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
         </div>
