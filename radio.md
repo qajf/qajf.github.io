@@ -25,14 +25,17 @@ layout: sub
 <button>
   <a href="https://www.jcbasimul.com/?radio=fm%E3%81%86%E3%82%89%E3%82%89" target="_blank">Radio</a>
 </button>
+
 過去放送分はこちらからお聴き頂くことができます。
 <button>
   <a href="http://www.fmu.co.jp/redpillradio.html" target="_blank">Archive</a>
 </button>
+
 レッドピルラジオショーHPはこちらから
 <button>
   <a href="https://redpill-radio.info/" target="_blank">Radio</a>
 </button>
+
 Youtube 配信 17chはこちらから　
 <button>
   <a href="https://www.youtube.com/channel/UCHGs107YRS63H516bE1EGhA" target="_blank">Radio</a>
