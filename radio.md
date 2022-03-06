@@ -33,11 +33,11 @@ layout: sub
 
 レッドピルラジオショーHPはこちらから
 <button>
-  <a href="https://redpill-radio.info/" target="_blank">Radio</a>
+  <a href="https://redpill-radio.info/" target="_blank">Red PILL RADIO SHOW HP</a>
 </button>
 
 Youtube 配信 17chはこちらから　
 <button>
-  <a href="https://www.youtube.com/channel/UCHGs107YRS63H516bE1EGhA" target="_blank">Radio</a>
+  <a href="https://www.youtube.com/channel/UCHGs107YRS63H516bE1EGhA" target="_blank">17ch</a>
 </button>
 
