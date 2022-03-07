@@ -11,6 +11,6 @@ layout: sub
 全世界で展開されている軍事作戦である
 
 
-LEARN MORE
+<!--LEARN MORE-->
   
   
