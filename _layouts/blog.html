@@ -231,7 +231,7 @@ $('#mobilemenu .item').click(() => {
 		     <div class="image_box">
  <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
         </div>
- {% endif %}
+
             {% else post.image.homepage == NULL %}		    
         <div class="content_box">
       <h2 class="blog_style"><a href="{{ post.url }}">{{ post.title }}</a></h2>
