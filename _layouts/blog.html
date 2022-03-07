@@ -227,12 +227,12 @@ $('#mobilemenu .item').click(() => {
     <li>
 	     <div class="blog-contents">
 		     
-        {% if post.image.homepage %}
+        {% if post.image %}
 		     <div class="image_box">
  <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
         </div>
 
-            {% else post.image.homepage == NULL %}		    
+            {% else post.image == NULL %}		    
         <div class="content_box">
       <h2 class="blog_style"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	     
