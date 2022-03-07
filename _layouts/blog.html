@@ -230,7 +230,12 @@ $('#mobilemenu .item').click(() => {
         {% if post.image %}
 		     <div class="image_box">
  <img src="{{ '/' | prepend: site.baseurl | append: post.image }}" alt="" />
-        </div>
+			      <div class="content_box">
+      <h2 class="blog_style"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	     
+	    
+      {{ post.excerpt }}
+			     </div></div>
 
             {% else post.image == NULL %}		    
         <div class="content_box">
@@ -240,7 +245,7 @@ $('#mobilemenu .item').click(() => {
       {{ post.excerpt }}
  {% endif %}
 
-    </div></div>
+    </div>
 	    
       
     </li>
