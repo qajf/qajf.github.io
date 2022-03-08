@@ -548,7 +548,7 @@ ul.third-content {
     display:block;
 }
 
-@media screen and (min-width:680px) and ( max-width:780px){
+@media screen and ( max-width:820px){
 
   header {
   /* border:1px solid #000; */ 
@@ -579,7 +579,7 @@ ul.third-content {
     margin-right: 13px;
 }
 	
-	@media screen and (min-width:81px) and ( max-width:780px){
+	@media screen and (min-width:781px) {
 
   header {
   /* border:1px solid #000; */ 
