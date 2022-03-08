@@ -579,7 +579,7 @@ ul.third-content {
     margin-right: 13px;
 }
 	
-	@media screen and (min-width:781px) {
+	@media screen and (min-width:821px) {
 
   header {
   /* border:1px solid #000; */ 
@@ -694,7 +694,7 @@ ul.navbar.nav {
 
 }
 
-@media screen and (min-width:680px){
+@media screen and (min-width:820px){
 	
 	
 	
