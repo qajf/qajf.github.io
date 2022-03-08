@@ -7,7 +7,7 @@ layout: sub
 
 名称が新しく変わりました。詳しくは<a href="/information.html">information</a>をご覧ください。
 
-<img src="assets/img/map.png">
+<img src="assets/img/map.png" style="max-width:100%;">
 
 ### QT meet up 受付担当窓口
 
