@@ -5,8 +5,11 @@ layout: sub
 
 ## QT meetupのご案内
 
-名称が新しく変わりました。
-QT meet up 受付担当窓口
+名称が新しく変わりました。詳しくは<a href="/information/">information</a>をご覧ください。
+
+<img src="assets/img/map.png">
+
+### QT meet up 受付担当窓口
 
 💁‍♀️参加希望の方は
 
