@@ -797,7 +797,7 @@ h3.link {
     text-decoration: none;
 }
 
-@media screen and (min-width:481px and max-width: 680px){
+@media screen and (min-width:481px and max-width: 820px){
 .nav .dropdown-menu {
     visibility: hidden;
     opacity: 0;
