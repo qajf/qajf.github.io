@@ -5,7 +5,7 @@ layout: sub
 
 ## QT meetupのご案内
 
-名称が新しく変わりました。詳しくは<a href="/information/">information</a>をご覧ください。
+名称が新しく変わりました。詳しくは<a href="/information.html">information</a>をご覧ください。
 
 <img src="assets/img/map.png">
 
