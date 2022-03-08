@@ -609,6 +609,7 @@ ul.third-content {
 ul.navbar.nav {
     display: flex;
     position: relative;
+	flex-direction: column;
 }
 
   .nav li {
