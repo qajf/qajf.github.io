@@ -31,9 +31,9 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer1.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1636" target="_blank"><span>Download</span></a></p></div>
-    <div class="box">
+    <!--<div class="box">
     <div class="imga" style="text-align:center;">
-    <img src="images/flyer2.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1644" target="_blank"><span>Download</span></a></p></div>
+    <img src="images/flyer2.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1644" target="_blank"><span>Download</span></a></p></div>-->
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer3.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1642" target="_blank"><span>Download</span></a></p></div>
