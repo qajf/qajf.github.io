@@ -39,7 +39,7 @@ layout: sub
     <img src="images/flyer3.jpg"></div><p class="but"><a href="/assets/qtmeetup0311.pdf" target="_blank"><span>Download</span></a></p></div>
 	<div class="box">
     <div class="imga" style="text-align:center;">
-    <img src="images/flyer4.jpg"></div><p class="but"><a href="/assets/corona.pdf" target="_blank"><span>Download</span></a></p></div>
+    <img src="images/flyer4.png"></div><p class="but"><a href="/assets/corona.pdf" target="_blank"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer5.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1640" target="_blank"><span>Download</span></a></p></div>
