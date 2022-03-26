@@ -42,7 +42,7 @@ layout: sub
     <img src="images/flyer4.png"></div><p class="but"><a href="/assets/corona.pdf" target="_blank"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
-    <img src="images/flyer5.jpg"></div><p class="but"><a href="/assets/220326detox.pdf" target="_blank"><span>Download</span></a></p></div>
+    <img src="images/flyer5.jpg"></div><p class="but"><a href="/assets/20220326detox.pdf" target="_blank"><span>Download</span></a></p></div>
     			<h2><strong>Q news paper</strong></h2>		
 							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf" target="_blank">Download</a></button>
 		
