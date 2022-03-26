@@ -3,17 +3,17 @@ layout: sub
 ---
 
 
-## QT meetupのご案内
+## QT meet upのご案内
 
 名称が新しく変わりました。詳しくは<a href="/information.html">information</a>をご覧ください。
 
 <img src="assets/img/map.png" style="max-width:100%;">
 
-全国各地で、QAJF隊員とアノンさんが会って話し合うQTmeetupが活発に開催されています。
+全国各地で、QAJF隊員とアノンさんが会って話し合うQT meet upが活発に開催されています。
 疑問に思うことや世の中の事、隊員に聞きたいこと、話したいこと、なんでも構いません。
 お時間のご都合がよければ、お気軽にぜひご参加をお願いします。
 
-### 【QTmeetupの目的と基本方針】
+### 【QT meet upの目的と基本方針】
 
 1) 各地のコミュニティでミーティングや親睦会、食事会などを設けること。
 
@@ -77,21 +77,21 @@ layout: sub
 
 #### 3月
 
-でくらすぞQ州 QTmeetup
+でくらすぞQ州 QT meet up
 3月6日（<font color="#ff0000">日</font>）   13:00～16:00 福岡市内
 
-QANAG1WGA神奈川 QTmeetup
+QANAG1WGA神奈川 QT meet up
 3月22日(火) 14:00~ 藤沢/平塚エリア
 
-静岡Qエスト QTmeetup
+静岡Qエスト QT meet up
 3月26日(<font color="#0000ff">土</font>)13:00〜16:00　静岡市
 
 #### 4月
 
-Qapital東京 QTmeetup 
+Qapital東京 QT meet up 
 4月10日(<font color="#ff0000">日</font>) 13時〜16時 渋谷区
 
-栃木Qberry QTmeetup 
+栃木Qberry QT meet up 
 4月17日(<font color="#ff0000">日</font>) 14時〜17時 小山市
 
 
