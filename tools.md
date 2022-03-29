@@ -27,8 +27,8 @@ layout: sub
     <div class="imga" style="text-align:center;">
     <img src="images/post5.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1626" target="_blank"><span>Download</span></a></p></div>
 <h2><strong>Flyer</strong></h2>
-	<p style="color:#ff0000;">※ホームページ・動画等アドレスの変更に伴い、チラシを改定致しました。</p>
-	<p style="color:#ff0000;">現在チラシをお持ちの方は、お手数をおかけしますが、早めに配られますようお願い致します。</p>
+	<p style="color:#ff0000;">※ホームページ・動画等アドレスの変更に伴い、チラシを更新致しました。</p>
+	<p style="color:#ff0000;">更新前のチラシをお持ちの方は、お手数をおかけしますが、早めに配られますようお願い致します。</p>
 	<div class="postcard">
     <!--<div class="box">
     <div class="imga" style="text-align:center;">
