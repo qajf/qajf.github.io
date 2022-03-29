@@ -28,12 +28,12 @@ layout: sub
     <img src="images/post5.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1626" target="_blank"><span>Download</span></a></p></div>
 <h2><strong>Flyer</strong></h2>
 	<div class="postcard">
-    <div class="box">
-    <div class="imga" style="text-align:center;">
-    <img src="images/flyer1.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1636" target="_blank"><span>Download</span></a></p></div>
     <!--<div class="box">
     <div class="imga" style="text-align:center;">
-    <img src="images/flyer2.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1644" target="_blank"><span>Download</span></a></p></div>-->
+    <img src="images/flyer1.jpg"></div><p class="but"><a href="https://www.qajf.epizy.com/?page_id=1636" target="_blank"><span>Download</span></a></p></div>-->
+    <div class="box">
+    <div class="imga" style="text-align:center;">
+    <img src="images/flyer2.jpg"></div><p class="but"><a href="/assets/120220322redpill.pdf" target="_blank"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer3.jpg"></div><p class="but"><a href="/assets/80322qtmeetup.pdf" target="_blank"><span>Download</span></a></p></div>
