@@ -63,9 +63,7 @@ layout: sub
 
 千 葉： <a href="mailto:qajf.chiba@gmail.com" target="_self">qajf.chiba@gmail.com</a>
 
-静 岡： <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
-
-愛 知： <a href="mailto:qajf.aichi@gmail.com" target="_self">qajf.aichi@gmail.com</a>
+愛知・静 岡： <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
 大 阪： <a href="mailto:qajf.kinki@gmail.com" target="_self">qajf.kinki@gmail.com</a>
 
