@@ -7,7 +7,7 @@ layout: sub
 
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/akko_qberry_17/" target="_blank" rel="noopener"><span>あっこ note</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/nixspiritus" target="_blank" rel="noopener"><span>Yukkie note</span></a></h3>
-<h3 class="font_2 link" style="font-size: 20px;"><span><a href="https://ss1.xrea.com/zent.s1009.xrea.com/" target="_blank" rel="noopener">8kunウェルカムページ（翻訳版）</a></span></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><span><a href="https://qajf.github.io/qresearch" target="_blank" rel="noopener">8kunウェルカムページ（翻訳版）</a></span></h3>
 
 <h3 class="font_2 link" style="font-size: 20px"><a href="https://podcasts.apple.com/us/podcast/id1482900640" target="_blank" rel="noopener"><span>クラブ369-都市伝説から紐解く世界-</span></a></h3>
 
