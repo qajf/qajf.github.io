@@ -41,8 +41,8 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer3.jpg">
-	    <p>3/29更新</p>
-	    </div><p class="but"><a href="/assets/80322qtmeetup.pdf" target="_blank"><span>Download</span></a></p></div>
+	    <p>4/4更新</p>
+	    </div><p class="but"><a href="/assets/0404qtmeetup.pdf" target="_blank"><span>Download</span></a></p></div>
 	<div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer4.png">
