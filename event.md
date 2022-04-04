@@ -73,17 +73,6 @@ layout: sub
 
 ### 2022/03/02更新
 
-#### 3月
-
-でくらすぞQ州 QT meet up
-3月6日（<font color="#ff0000">日</font>）   13:00～16:00 福岡市内
-
-QANAG1WGA神奈川 QT meet up
-3月22日(火) 14:00~ 藤沢/平塚エリア
-
-静岡Qエスト QT meet up
-3月26日(<font color="#0000ff">土</font>)13:00〜16:00　静岡市
-
 #### 4月
 
 Qapital東京 QT meet up 
