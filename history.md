@@ -148,7 +148,7 @@ layout : sub
 
 12月31日　 インターネットテレビ「ABEMA Prime」年越しSP出演（AISEI）
 
-2022年
+### 2022年
  
 2月5日　   Telegram「QAJF資料館」公開　https://t.me/qajfhistory
 
