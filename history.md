@@ -126,7 +126,7 @@ layout : sub
 
 6月20日　  千葉Q散歩
 
-6月21日　  QAJF Gab公式アカウント開設　https://gab.com/QArmyJapanFlynn
+6月21日　  QAJF Gab公式アカウント開設　    [Gab公式アカウント](https://gab.com/QArmyJapanFlynn){:target="_blank"}
 
 7月3日　   神奈川Q散歩　
 
@@ -134,7 +134,7 @@ layout : sub
 
 7月18日　  東京Q散歩 
 
-8月24日　  Telegram「JapanGreenDragon」開設　https://t.me/joinchat/xqUZvIe1uYg1YTQx
+8月24日　  Telegram「JapanGreenDragon」開設　[JapanGreenDragon](https://t.me/joinchat/xqUZvIe1uYg1YTQx){:target="_blank"}
 
 8月31日　  井戸端会議の呼称を改め「✨QT meet up✨」に変更
 
@@ -150,11 +150,11 @@ layout : sub
 
 ### 2022年
  
-2月5日　   Telegram「QAJF資料館」公開　https://t.me/qajfhistory
+2月5日　   Telegram「QAJF資料館」公開　[QAJF資料館](https://t.me/qajfhistory){:target="_blank"}
 
 3月1日　   QAJF公式ホームページ移転　https://qajf.github.io
 
-3月22日　  動画サイト（odysee）の移転　https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5
+3月22日　  動画サイト（odysee）の移転　[odysee](https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5){:target="_blank"}https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5
 
-4月1日　   Eriさん、Substackでニュースレターを開始　https://eriqmapjapan.substack.com
+4月1日　   Eriさん、Substackでニュースレターを開始　[Substack](https://eriqmapjapan.substack.com){:target="_blank"}
 
