@@ -119,3 +119,42 @@ layout : sub
 4月29日    神戸Q散歩
 
 5月4日　   静岡Q散歩
+
+5月30日　  大阪Q散歩 
+
+5月31日　  Telegram「Eri&QmapJapan⭐️⭐️⭐」開設
+
+6月20日　  千葉Q散歩
+
+6月21日　  QAJF Gab公式アカウント開設　https://gab.com/QArmyJapanFlynn
+
+7月3日　   神奈川Q散歩　
+
+7月7日　   九州の報道番組、KBC「アサデス」出演（AISEI、アーバスキュラー、Mack O）
+
+7月18日　  東京Q散歩 
+
+8月24日　  Telegram「JapanGreenDragon」開設　https://t.me/joinchat/xqUZvIe1uYg1YTQx
+
+8月31日　  井戸端会議の呼称を改め「✨QT meet up✨」に変更
+
+10月7日　  LINE「QAJFLINE公式チャンネル」開設
+
+10月17日　 東京Q散歩
+
+10月31日　 川越Q散歩
+
+11月21日　 東京Q散歩
+
+12月31日　 インターネットテレビ「ABEMA Prime」年越しSP出演（AISEI）
+
+2022年
+ 
+2月5日　   Telegram「QAJF資料館」公開　https://t.me/qajfhistory
+
+3月1日　   QAJF公式ホームページ移転　https://qajf.github.io
+
+3月22日　  動画サイト（odysee）の移転　https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5
+
+4月1日　   Eriさん、Substackでニュースレターを開始　https://eriqmapjapan.substack.com
+
