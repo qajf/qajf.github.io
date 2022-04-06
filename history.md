@@ -154,7 +154,6 @@ layout : sub
 
 3月1日　   QAJF公式ホームページ移転　https://qajf.github.io
 
-3月22日　  動画サイト（odysee）の移転　[odysee](https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5){:target="_blank"}https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5
-
+3月22日　  動画サイト（odysee）の移転　[odysee](https://odysee.com/@QArmyJapanFlynn_OFFICIAL:5){:target="_blank"}
 4月1日　   Eriさん、Substackでニュースレターを開始　[Substack](https://eriqmapjapan.substack.com){:target="_blank"}
 
