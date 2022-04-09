@@ -50,6 +50,7 @@
   url: tools.html
   title: blog
   url: https://qajf.github.io/blognew
+  target: _blank
 - title: "Link"
   url: link.html
   sublinks:
