@@ -15,16 +15,19 @@ Eriさんは日本で唯一のQmap翻訳者です。
 
 ☆gab
 
-https://gab.com/EriQmapJapan
+[https://eriqmapjapan.substack.com/](https://eriqmapjapan.substack.com/){:target="_blank"}
 
 ☆Newsサイト
 
-https://eriqmapjapan.substack.com/about?sort=people
+[https://eriqmapjapan.substack.com/](https://eriqmapjapan.substack.com/){:target="_blank"}
 
 ☆Telegram
 
-🐸QAJFチャット https://t.me/QArmyJapanFlynnChat
+🐸QAJFチャット
+[https://t.me/QArmyJapanFlynnChat](https://t.me/QArmyJapanFlynnChat){:target="_blank"}
 
-🐸Eri&QmapJapan https://t.me/EriAndQmapJapan
+🐸Eri&QmapJapan
+[https://t.me/EriAndQmapJapan](https://t.me/EriAndQmapJapan){:target="_blank"}
 
-🐸Eriチャット https://t.me/+wgUQKKmwlBBmNGU1
+🐸Eriチャット
+[https://t.me/+wgUQKKmwlBBmNGU1](https://t.me/+wgUQKKmwlBBmNGU1){:target="_blank"}
