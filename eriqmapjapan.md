@@ -13,6 +13,8 @@ Eriさんは日本で唯一のQmap翻訳者です。
 
 また海外・国内の情報やニュースをいち早く私たちに届けるため、昼夜をとわず翻訳作業をしてくださっています。
 
+<hr style="border:dotted">
+
 ☆gab
 
 [https://gab.com/EriQmapJapan](https://gab.com/EriQmapJapan){:target="_blank"}
