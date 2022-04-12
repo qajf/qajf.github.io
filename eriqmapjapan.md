@@ -7,7 +7,7 @@ layout: sub
 
 Eriさんは日本で唯一のQmap翻訳者です。
 
-2019年に日本のアノングループ「QArmyJapanFlynn」を結成されました。
+2019年に日本のアノングループ「<strong>QArmyJapanFlynn</strong>」を結成されました。
 
 背景についての説明は<a href="qajf.html">こちら</a>
 
