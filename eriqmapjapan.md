@@ -17,7 +17,7 @@ Eriさんは日本で唯一のQmap翻訳者です。
 
 [https://gab.com/EriQmapJapan](https://gab.com/EriQmapJapan){:target="_blank"}
 
-☆Newsサイト
+☆EriQmapJapan’sニュースレター
 
 [https://eriqmapjapan.substack.com/](https://eriqmapjapan.substack.com/){:target="_blank"}
 
