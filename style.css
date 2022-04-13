@@ -301,6 +301,22 @@ ul.menu {
     line-height: 170%;
 }
 
+.new{
+    position: relative;
+    background-color: aliceblue;
+    width: 100%;
+    max-width: 384px;
+    margin: 60px auto;
+    aspect-ratio: 16/9;
+}
+
+.new::before{
+    content: "NEW";
+    background-color: crimson;
+    padding: 5px 25px;
+}
+
+
 /* postcard */
 
 .but a {
