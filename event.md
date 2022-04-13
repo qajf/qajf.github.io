@@ -82,7 +82,7 @@ Qapital東京 QT meet up
 4月17日(<font color="#ff0000">日</font>) 14時〜17時 小山市
 
 #### 5月
-<div style="color:#ff0000" class="new"><strong>NEW</strong></div>
+<div style="color:#ff0000"><strong>NEW</strong></div>
 でくらすぞQ州 QT meet up
 5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内
 
