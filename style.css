@@ -904,7 +904,7 @@ h3.link {
 @media screen and (min-width:1020px){
    .nav li {
    osition: relative;
-   margin-right: 1em!important;
+   margin-right: 2em!important;
 }
 
 nav.gnavi__pc-style {
