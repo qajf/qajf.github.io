@@ -86,6 +86,10 @@ Qapital東京 QT meet up
 でくらすぞQ州 QT meet up
 5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内
 
+<div style="color:#ff0000"><strong>NEW</strong></div>
+愛知あい・地Q  QTmeetup
+5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区
+
 
 
  
