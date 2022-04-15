@@ -23,6 +23,10 @@ Eriさんは日本で唯一のQmap翻訳者です。
 
 [https://eriqmapjapan.substack.com/](https://eriqmapjapan.substack.com/){:target="_blank"}
 
+☆動画サイト「mediable（メディアブル)」
+
+[https://mediable.jp/channels/a1702ee5-1e80-42b3-b5cd-bfb2f0a479b0](https://mediable.jp/channels/a1702ee5-1e80-42b3-b5cd-bfb2f0a479b0){:target="_blank"}
+
 ☆Telegram
 
 🐸QAJFチャット
