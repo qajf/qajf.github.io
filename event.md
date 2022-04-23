@@ -1,5 +1,6 @@
 ---
 layout: sub
+thumbnail: /assets/img/map.png
 ---
 
 
