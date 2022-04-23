@@ -6,6 +6,8 @@ description: >- # サイトの説明を書く
 baseurl: "" # ここは無視してOKです
 url: "https://qajf.github.io" # サイトのドメインを入力します。
 google_analytics: UA-221673806-1
+gems:
+  - jekyll-seo-tag
 
 plugins: # 使用するプラグインがあればここに追加します
   - jekyll-feed
