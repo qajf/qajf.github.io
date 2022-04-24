@@ -1,6 +1,7 @@
 ---
 layout: sub
 thumbnail: /assets/img/map.png
+image: /assets/img/map.png
 ---
 
 
@@ -86,6 +87,10 @@ Qapital東京 QT meet up
 <div style="color:#ff0000"><strong>NEW</strong></div>
 でくらすぞQ州 QT meet up
 5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内
+
+<div style="color:#ff0000"><strong>NEW</strong></div>
+QANAG1WGA神奈川 QT meet up
+5月14日（<font color="#ff0000">日</font>) 13時～ 横浜市
 
 <div style="color:#ff0000"><strong>NEW</strong></div>
 愛知あい・地Q  QTmeetup
