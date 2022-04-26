@@ -15,7 +15,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:description" content="{% if page.desc %}{{ page.desc }}{% else %}{{ page.content | strip_html | truncate: 130 }}{% endif %}" />
-    <meta property="og:image" content="{% if page.thumbnail %}{{ site.url }}{{ page.url }}{{ page.thumbnail }}{% else %}{{ "/assets/images/ogp-image.png" | absolute_url }}{% endif %}" />
+    <meta property="og:image" content="{% if page.thumbnail %}{{ site.url }}{{ page.thumbnail }}{% else %}{{ "/assets/images/ogp-image.png" | absolute_url }}{% endif %}" />
 
     <!-- RSSフィード の指定 -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ "/feed.xml" | absolute_url }}" />
