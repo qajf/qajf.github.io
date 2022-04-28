@@ -96,7 +96,7 @@ image: /assets/img/map.png
 <div style="color:#ff0000"><strong>NEW</strong></div>
 QANAG1WGA神奈川 QT meet up
 
-5月14日（<font color="#0000ff">土</font>) 13時～ 横浜市 :e-mail: <a href="mailto:qajf.kanagawa@gmail.com" target="_self">qajf.kanagawa@gmail.com</a>
+5月14日（<font color="#0000ff">土</font>) 13時～ 横浜市 &#128231; <a href="mailto:qajf.kanagawa@gmail.com" target="_self">qajf.kanagawa@gmail.com</a>
 <hr style="color:#ddd;">
 <div style="color:#ff0000"><strong>NEW</strong></div>
 Qapital東京QTmeetup
