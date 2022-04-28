@@ -84,7 +84,7 @@ image: /assets/img/map.png
 4月17日(日) 14時〜17時 小山市
 </div>
 
-#### 5月
+
 
 <div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
 
@@ -106,7 +106,9 @@ Qapital東京QTmeetup
 
 5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区
 
-#### 6月
+
+
+<div style="background-color:#ff0000;padding:5px 10px;color:#fff">6月</div>
 
 <div style="color:#ff0000"><strong>NEW</strong></div>
 北海道DOSANQO QT meet up
