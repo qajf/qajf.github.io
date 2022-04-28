@@ -90,7 +90,7 @@ image: /assets/img/map.png
 
 でくらすぞQ州 QT meet up
 
-5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内 <a href="mailto:qajf.declasq@gmail.com" target="_self">mail</a>
+5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内 <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
 <hr style="color:#ddd;">
 <div style="color:#ff0000"><strong>NEW</strong></div>
 QANAG1WGA神奈川 QT meet up
@@ -100,11 +100,11 @@ QANAG1WGA神奈川 QT meet up
 <div style="color:#ff0000"><strong>NEW</strong></div>
 Qapital東京QTmeetup
 
-5月21日（<font color="#0000ff">土</font>) 13時～16時 中央区
+5月21日（<font color="#0000ff">土</font>) 13時～16時 中央区 <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 <hr style="color:#ddd;">
 愛知あい・地Q  QTmeetup
 
-5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区
+5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区 <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
 
 
@@ -113,7 +113,7 @@ Qapital東京QTmeetup
 <div style="color:#ff0000"><strong>NEW</strong></div>
 北海道DOSANQO QT meet up
 
-6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市
+6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市 <a href="mailto:hokkaido.qajf@gmail.com" target="_self">hokkaido.qajf@gmail.com</a>
 
 ## Q散歩のご案内
 
