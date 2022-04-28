@@ -73,15 +73,16 @@ image: /assets/img/map.png
 
 ## QT meet up スケジュール
 
-### 2022/04/26更新
+### 2022/04/28更新
 
 #### 4月
 
-Qapital東京 QT meet up 
+<div style="color:#ddd;">Qapital東京 QT meet up 
 4月10日(<font color="#ff0000">日</font>) 13時〜16時 渋谷区
 
 栃木Qberry QT meet up 
 4月17日(<font color="#ff0000">日</font>) 14時〜17時 小山市
+</div>
 
 #### 5月
 
@@ -99,6 +100,11 @@ Qapital東京QTmeetup
 愛知あい・地Q  QTmeetup
 5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区
 
+#### 6月
+
+<div style="color:#ff0000"><strong>NEW</strong></div
+北海道DOSANQO QT meet up
+6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市
 
 ## Q散歩のご案内
 
