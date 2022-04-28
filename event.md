@@ -84,7 +84,7 @@ image: /assets/img/map.png
 4月17日(日) 14時〜17時 小山市
 </div>
 
-#### 5月
+#### 5月<div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
 
 でくらすぞQ州 QT meet up
 
