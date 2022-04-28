@@ -89,17 +89,17 @@ image: /assets/img/map.png
 でくらすぞQ州 QT meet up
 
 5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内
-
+<hr>
 <div style="color:#ff0000"><strong>NEW</strong></div>
 QANAG1WGA神奈川 QT meet up
 
 5月14日（<font color="#0000ff">土</font>) 13時～ 横浜市
-
+<hr>
 <div style="color:#ff0000"><strong>NEW</strong></div>
 Qapital東京QTmeetup
 
 5月21日（<font color="#0000ff">土</font>) 13時～16時 中央区
-
+<hr>
 愛知あい・地Q  QTmeetup
 
 5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区
