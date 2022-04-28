@@ -101,11 +101,11 @@ QANAG1WGA神奈川 QT meet up
 <div style="color:#ff0000"><strong>NEW</strong></div>
 Qapital東京QTmeetup
 
-5月21日（<font color="#0000ff">土</font>) 13時～16時 中央区 <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
+5月21日（<font color="#0000ff">土</font>) 13時～16時 中央区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 <hr style="color:#ddd;">
 愛知あい・地Q  QTmeetup
 
-5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区 <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
+5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区　&#128231; <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
 
 
@@ -114,7 +114,7 @@ Qapital東京QTmeetup
 <div style="color:#ff0000"><strong>NEW</strong></div>
 北海道DOSANQO QT meet up
 
-6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市 <a href="mailto:hokkaido.qajf@gmail.com" target="_self">hokkaido.qajf@gmail.com</a>
+6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市　&#128231; <a href="mailto:hokkaido.qajf@gmail.com" target="_self">hokkaido.qajf@gmail.com</a>
 
 ## Q散歩のご案内
 
