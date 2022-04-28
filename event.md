@@ -84,12 +84,14 @@ image: /assets/img/map.png
 4月17日(日) 14時〜17時 小山市
 </div>
 
-#### 5月<div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
+#### 5月
+
+<div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
 
 でくらすぞQ州 QT meet up
 
 5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内
-<hr>
+<hr style="color:#ddd;">
 <div style="color:#ff0000"><strong>NEW</strong></div>
 QANAG1WGA神奈川 QT meet up
 
