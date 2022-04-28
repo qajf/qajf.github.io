@@ -102,7 +102,7 @@ Qapital東京QTmeetup
 
 #### 6月
 
-<div style="color:#ff0000"><strong>NEW</strong></div
+<div style="color:#ff0000"><strong>NEW</strong></div>
 北海道DOSANQO QT meet up
 6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市
 
