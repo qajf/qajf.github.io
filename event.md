@@ -90,7 +90,7 @@ image: /assets/img/map.png
 
 でくらすぞQ州 QT meet up
 
-5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内 <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
+5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内 :email: <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
 <hr style="color:#ddd;">
 <div style="color:#ff0000"><strong>NEW</strong></div>
 QANAG1WGA神奈川 QT meet up
