@@ -77,12 +77,12 @@ image: /assets/img/map.png
 
 <div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
 
-でくらすぞQ州 QT meet up
+<font color="ddd">でくらすぞQ州 QT meet up
 
 5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内 
 &#128231; <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
 <hr style="color:#ddd;">
-<div style="color:#ff0000"><strong>NEW</strong></div>
+<div style="color:#ff0000"><strong>NEW</strong></div></font>
 QANAG1WGA神奈川 QT meet up
 
 5月14日（<font color="#0000ff">土</font>) 13時～ 横浜市 &#128231; <a href="mailto:qajf.kanagawa@gmail.com" target="_self">qajf.kanagawa@gmail.com</a>
