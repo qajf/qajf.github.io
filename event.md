@@ -79,7 +79,7 @@ image: /assets/img/map.png
 
 <font color="#ddd">でくらすぞQ州 QT meet up
 
-5月1日（<font color="#ff0000">日</font>) 13時～16時 北九州市内 
+5月1日（日) 13時～16時 北九州市内 
 &#128231; <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a></font>
 <hr style="color:#ddd;">
 <div style="color:#ff0000"><strong>NEW</strong></div>
