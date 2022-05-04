@@ -75,17 +75,6 @@ image: /assets/img/map.png
 
 ### 2022/04/28更新
 
-#### 4月
-
-<div style="color:#ddd;">Qapital東京 QT meet up 
-4月10日(日) 13時〜16時 渋谷区
-
-栃木Qberry QT meet up 
-4月17日(日) 14時〜17時 小山市
-</div>
-
-
-
 <div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
 
 でくらすぞQ州 QT meet up
