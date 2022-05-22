@@ -4,7 +4,11 @@ layout: sub
 
 # Link
 ## 隊員たちの活動
-
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://prayermewan.substack.com/" target="_blank" rel="noopener"><span>prayermewan’s Newsletter</span></a></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://ameblo.jp/yoake-mousugu/" target="_blank" rel="noopener"><span>アベリアのブログ</span></a></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://mamaqajf.hateblo.jp/" target="_blank" rel="noopener"><span>EriQmapJapan Fan！！！</span></a></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://ameblo.jp/tokyojapanf1" target="_blank" rel="noopener"><span>QNNのレッドピルニュース</span></a></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://ameblo.jp/blackbird-toriel/" target="_blank" rel="noopener"><span>blackbird-torielのブログ</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/akko_qberry_17/" target="_blank" rel="noopener"><span>あっこ note</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/nixspiritus" target="_blank" rel="noopener"><span>Yukkie note</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><span><a href="https://qajf.github.io/qresearch" target="_blank" rel="noopener">8kunウェルカムページ（翻訳版）</a></span></h3>
