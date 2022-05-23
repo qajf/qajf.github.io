@@ -252,6 +252,12 @@ button:hover {
         background-color:  #00BCD4; /* 背景色指定 */
     }
 
+.banner-style{
+	width:980px;
+	text-align:center;
+	margin:0 auto;
+}
+
 .grid {
   display: grid;
   gap: 30px;
@@ -265,7 +271,15 @@ button:hover {
 }
 img {
   /* max-width: 100%; */
-  height: auto;
+  height: auto;<section class="has-text-align-center">
+    
+	<div style="width:980px;text-align:center;margin:0 auto;">
+        <div style="background-color:#ff0000;color:#fff; width:980px;height:50px;text-align:left;padding:10px 20px;box-sizing:border-box;">
+				      <p style="margin:0">QAJF制作動画</p>
+				      </div>
+	<img src="images/photo_2022-05-23_13-55-20.jpg" style="vertical-align:top;">
+
+</div></section>
 }
 .item p {
   text-align: center;
