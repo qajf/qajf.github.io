@@ -394,16 +394,7 @@ a:hover {
     
  @media screen and (max-width:480px){
 	 
-	 .banner-style{
-	width:100%;
-	text-align:center;
-	margin:0 auto;
-}
 	 
-	 .banner-style img {
-		 width:100%;
-	 }
-
 
 .postcard{flex-direction:column;}
 .box{
@@ -439,7 +430,31 @@ a:hover {
 
 
 /******* トグルメニュ *********/
-
+ .banner-style{
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}
+	 
+	 .banner-style img { .banner-style{
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}
+	 
+	 .banner-style img { .banner-style{
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}
+	 
+	 .banner-style img {
+		 width:100%;
+	 }
+		 width:100%;
+	 }
+		 width:100%;
+	 }
 
 
 
@@ -987,6 +1002,16 @@ h2 span:after {
     background: #fff;
 }
 @media screen and (max-width: 767px) {
+	.banner-style{
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}
+	 
+	 .banner-style img {
+		 width:100%;
+	 }
+
   .b-container {
 	  background-color: #f5f4f5;
 	
