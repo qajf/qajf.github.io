@@ -407,6 +407,16 @@ a:hover {
     margin-bottom: 50px;
     margin: 0 auto;
 }
+	 .banner-style{
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}
+	 
+	 .banner-style img {
+		 width:100%;
+	 }
+
 }
 
 
