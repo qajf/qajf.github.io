@@ -271,15 +271,7 @@ button:hover {
 }
 img {
   /* max-width: 100%; */
-  height: auto;<section class="has-text-align-center">
-    
-	<div style="width:980px;text-align:center;margin:0 auto;">
-        <div style="background-color:#ff0000;color:#fff; width:980px;height:50px;text-align:left;padding:10px 20px;box-sizing:border-box;">
-				      <p style="margin:0">QAJF制作動画</p>
-				      </div>
-	<img src="images/photo_2022-05-23_13-55-20.jpg" style="vertical-align:top;">
-
-</div></section>
+  height: auto;
 }
 .item p {
   text-align: center;
@@ -407,6 +399,10 @@ a:hover {
 	text-align:center;
 	margin:0 auto;
 }
+	 
+	 .banner-style img {
+		 width:100%;
+	 }
 
 
 .postcard{flex-direction:column;}
