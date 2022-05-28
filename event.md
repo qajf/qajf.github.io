@@ -89,10 +89,11 @@ image: /assets/img/map.png
 5月14日（土) 13時～ 横浜市 &#128231; <a href="mailto:qajf.kanagawa@gmail.com" target="_self" style="color:#ddd;">qajf.kanagawa@gmail.com</a></font>
 終了いたしました。
 <hr style="color:#ddd;">
-<div style="color:#ff0000"><strong>NEW</strong></div>
-Qapital東京QTmeetup
+<font color="#ddd">Qapital東京QTmeetup
 
-5月21日（<font color="#0000ff">土</font>) 13時～16時 中央区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
+5月21日（土) 13時～16時 中央区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self" style="color:#ddd;">jgd.tokyo@gmail.com</a>
+   </font>
+終了いたしました。
 <hr style="color:#ddd;">
 愛知あい・地Q  QTmeetup
 
