@@ -15,13 +15,12 @@ layout: sub
 
 <h3 class="font_2 link" style="font-size: 20px"><a href="https://podcasts.apple.com/us/podcast/id1482900640" target="_blank" rel="noopener"><span>クラブ369-都市伝説から紐解く世界-</span></a></h3>
 
-<!--<h3 class="font_2 link" style="font-size: 20px;"><a href="https://jya369963.wixsite.com/j-wwg1wga" target="_blank" rel="noopener"><span>隊員J 革命の旅 応援サイト</span></a></h3>-->
+<!--<h3 class="font_2 link" style="font-size: 20px;"><a href="https://jya369963.wixsite.com/j-wwg1wga" target=https://qajf.github.io/link.html"_blank" rel="noopener"><span>隊員J 革命の旅 応援サイト</span></a></h3>-->
 
 
 <h3 class="font_2 link" style="font-size: 20px;"><a href="http://two-bottle.com" target="_blank" rel="noopener"><span>2Hey隊員HP</span></a></h3>
 
 
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://twitcasting.tv/jya369963/" target="_blank" rel="noopener"><span>J隊員ツイキャス（革命の旅）</span></a></h3>
 
 <h3 class="font_2 link" style="font-size: 20px; line-height: normal;"><a href="https://note.com/nijuco/" target="_blank" rel="noreferrer noopener"><span style="letter-spacing: normal;"><span>にじゅこの note</span></span></a></h3>
 
