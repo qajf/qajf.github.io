@@ -1016,7 +1016,15 @@ h2 span:after {
 @media screen and (max-width: 767px) {
 	.info ul {
 		 display:block;
+		width:100%;
+		margin:0;
+		padding:0;
 	 }
+	
+	.info li {
+		width:100%;
+		margin-bottom:20px;
+	}
 	 
 	 .info img {
 		 width:100%;
