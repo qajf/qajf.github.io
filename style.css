@@ -174,10 +174,15 @@ li {list-style:none;}
 
 .info ul {
 	display:flex;
+	width:900px;
 }
 
-.info img {
+.info li {
 	width:50%;
+	margin-right:20px;
+
+.info img {
+	width:100%;
 }
 
 
@@ -423,6 +428,10 @@ a:hover {
 	 
 	 .banner-style img {
 		 width:100%;
+	 }
+	 
+	 .info ul {
+		 display:block;
 	 }
 	 
 	 .info img {
