@@ -75,29 +75,7 @@ image: /assets/img/map.png
 
 ### 2022/04/28更新
 
-<div style="background-color:#ff0000;padding:5px 10px;color:#fff">5月</div>
 
-<font color="#ddd">でくらすぞQ州 QT meet up
-
-5月1日（日) 13時～16時 北九州市内 
-&#128231; <a href="mailto:qajf.declasq@gmail.com" target="_self" style="color:#ddd;">qajf.declasq@gmail.com</a></font>
-終了いたしました。
-<hr style="color:#ddd;">
-
-<font color="#ddd">QANAG1WGA神奈川 QT meet up
-
-5月14日（土) 13時～ 横浜市 &#128231; <a href="mailto:qajf.kanagawa@gmail.com" target="_self" style="color:#ddd;">qajf.kanagawa@gmail.com</a></font>
-終了いたしました。
-<hr style="color:#ddd;">
-<font color="#ddd">Qapital東京QTmeetup
-
-5月21日（土) 13時～16時 中央区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self" style="color:#ddd;">jgd.tokyo@gmail.com</a>
-   </font>
-終了いたしました。
-<hr style="color:#ddd;">
-愛知あい・地Q  QTmeetup
-
-5月29日（<font color="#ff0000">日</font>) 13時～15時 名古屋市 千種区　&#128231; <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
 
 
