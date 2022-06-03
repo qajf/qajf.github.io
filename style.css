@@ -1010,6 +1010,13 @@ h2 span:after {
     background: #fff;
 }
 @media screen and (max-width: 767px) {
+	.info ul {
+		 display:block;
+	 }
+	 
+	 .info img {
+		 width:100%;
+	 }
 	.banner-style{
 	width:100%;
 	text-align:center;
