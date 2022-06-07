@@ -73,7 +73,7 @@ image: /assets/img/map.png
 
 ## QT meet up スケジュール
 
-### 2022/04/28更新
+### 2022/06/7更新
 
 
 
