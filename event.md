@@ -73,7 +73,7 @@ image: /assets/img/map.png
 
 ## QT meet up スケジュール
 
-### 2022/06/7更新
+### 2022/06/16更新
 
 
 
@@ -90,6 +90,12 @@ image: /assets/img/map.png
 でくらすぞQ州 QT meet up
 
 6月26日（<font color="#ff0000">日</font>) 13時〜16時 福岡市内　&#128231; <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
+
+<div style="background-color:#ff0000;padding:5px 10px;color:#fff">6月</div>
+
+Qapital東京 QT meet up
+<div style="color:#ff0000"><strong>NEW</strong></div>
+7月17日（<font color="#ff0000">日</font>) 北区　12時～15時　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 
 ## Q散歩のご案内
 
