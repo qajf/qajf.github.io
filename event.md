@@ -91,7 +91,7 @@ image: /assets/img/map.png
 
 6月26日（<font color="#ff0000">日</font>) 13時〜16時 福岡市内　&#128231; <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
 
-<div style="background-color:#ff0000;padding:5px 10px;color:#fff">月</div>
+<div style="background-color:#ff0000;padding:5px 10px;color:#fff;margin-bottom:10px">7月</div>
 
 
 <div style="color:#ff0000"><strong>NEW</strong></div>
