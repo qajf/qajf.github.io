@@ -97,7 +97,7 @@ image: /assets/img/map.png
 <div style="color:#ff0000"><strong>NEW</strong></div>
 Qapital東京 QT meet up
 
-7月17日（<font color="#ff0000">日</font>) 北区　12時～15時　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
+7月17日（<font color="#ff0000">日</font>) 12時～15時 北区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 
 ## Q散歩のご案内
 
