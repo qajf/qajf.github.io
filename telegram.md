@@ -27,9 +27,6 @@ QArmyJapanFlynn は Telegram で情報発信をしています。また、chat�
 🐸ジャパングリーンドラゴン
 [https://t.me/joinchat/xqUZvIe1uYg1YTQx](https://t.me/joinchat/xqUZvIe1uYg1YTQx){:target="_blank"}
 
-🐸ジャパングリーンドラゴン
-[https://t.me/joinchat/xqUZvIe1uYg1YTQx](https://t.me/joinchat/xqUZvIe1uYg1YTQx){:target="_blank"}
-
 🐸QAJFミーム美術館
 [https://t.me/qajfmeme](https://t.me/qajfmeme){:target="_blank"}
 
