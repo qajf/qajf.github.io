@@ -270,6 +270,7 @@ button:hover {
 	width:490px;
 	text-align:center;
 	margin:0 auto;
+	float:left;
 }
 
 .grid {
