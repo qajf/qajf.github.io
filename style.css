@@ -266,11 +266,15 @@ button:hover {
         background-color:  #00BCD4; /* 背景色指定 */
     }
 
+.banner-box {
+	display:flex;
+}
+
 .banner-style{
 	width:490px;
 	text-align:center;
 	margin:0 auto;
-	float:left;
+	
 }
 
 .grid {
