@@ -1034,10 +1034,14 @@ h2 span:after {
 	 .info img {
 		 width:100%;
 	 }
+	.banner-box {
+		display:block;
+	}
 	.banner-style{
 	width:100%;
 	text-align:center;
 	margin:0 auto;
+		margin-bottom:20px;
 }
 	 
 	 .banner-style img {
