@@ -1146,5 +1146,10 @@ h2.blog_style {
 	.content_box {
  height:300px;
 }
+	
+	.bxslider img{
+  width: 100% !important;
+  height: auto !important;
+}
 
 }
