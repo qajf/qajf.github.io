@@ -79,22 +79,12 @@ image: /assets/img/map.png
 
 
 
-<div style="background-color:#ff0000;padding:5px 10px;color:#fff">6月</div>
 
-
-北海道DOSANQO QT meet up
-
-6月25日（<font color="#0000ff">土</font>) 13時〜15時 札幌市　&#128231; <a href="mailto:hokkaido.qajf@gmail.com" target="_self">hokkaido.qajf@gmail.com</a>
-
-<div style="color:#ff0000"><strong>NEW</strong></div>
-でくらすぞQ州 QT meet up
-
-6月26日（<font color="#ff0000">日</font>) 13時〜16時 福岡市内　&#128231; <a href="mailto:qajf.declasq@gmail.com" target="_self">qajf.declasq@gmail.com</a>
 
 <div style="background-color:#ff0000;padding:5px 10px;color:#fff;margin-bottom:10px">7月</div>
 
 
-<div style="color:#ff0000"><strong>NEW</strong></div>
+
 Qapital東京 QT meet up
 
 7月17日（<font color="#ff0000">日</font>) 12時～15時 北区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
