@@ -41,18 +41,18 @@ layout: sub
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer3.jpg">
-	    <p>4/4更新</p>
-	    </div><p class="but"><a href="/assets/0404qtmeetup.pdf" target="_blank"><span>Download</span></a></p></div>
+	    <p>7/4更新</p>
+	    </div><p class="but"><a href="/assets/0704qtmeetup.pdf" target="_blank"><span>Download</span></a></p></div>
 	<div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer4.png">
-	    <p>3/29更新</p>
-		</div><p class="but"><a href="/assets/40322corona.pdf" target="_blank"><span>Download</span></a></p></div>
+	    <p>7/4更新</p>
+		</div><p class="but"><a href="/assets/0704corona.pdf" target="_blank"><span>Download</span></a></p></div>
     <div class="box">
     <div class="imga" style="text-align:center;">
     <img src="images/flyer5.jpg">
-	    <p>3/29更新</p>
-	    </div><p class="but"><a href="/assets/20220326detox.pdf" target="_blank"><span>Download</span></a></p></div>
+	    <p>7/4更新</p>
+	    </div><p class="but"><a href="/assets/0704waku.pdf" target="_blank"><span>Download</span></a></p></div>
     			<h2><strong>Q news paper</strong></h2>		
 							<h5 class="font_5">Vol.1 あなたが食べているものは安全ですか？</h5>								<button><a href="https://www.qajf.epizy.com/wp-content/uploads/2022/01/ba357d_aef06d95d3f14ab0a85fef2d01ed3a3d1.pdf" target="_blank">Download</a></button>
 		
