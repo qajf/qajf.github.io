@@ -90,7 +90,7 @@ Qapital東京 QT meet up
 7月17日（<font color="#ff0000">日</font>) 12時～15時 北区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
 
 ## Qうちわ配りのご案内
-<img src="images/qfan.jpg" style="max-width:100%;margin-bottom:50px;">
+<img src="images/qfn.png" style="max-width:100%;margin-bottom:50px;">
 うちわ配りに参加しませんか？🐸🍿
 子どもたち（大人も）に向けた可愛らしい楽しいうちわをみんなで配ります。
 興味のある方にはチラシもお渡しします。
