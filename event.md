@@ -91,6 +91,7 @@ Qapital東京 QT meet up
 
 ## Qうちわ配りのご案内
 <img src="images/qfn.png" style="max-width:100%;margin-bottom:50px;">
+
 うちわ配りに参加しませんか？🐸🍿
 子どもたち（大人も）に向けた可愛らしい楽しいうちわをみんなで配ります。
 興味のある方にはチラシもお渡しします。
