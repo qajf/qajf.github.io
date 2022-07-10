@@ -23,10 +23,6 @@ layout: sub
 
 
 <h3 class="font_2 link" style="font-size: 20px; line-height: normal;"><a href="https://note.com/nijuco/" target="_blank" rel="noreferrer noopener"><span style="letter-spacing: normal;"><span>にじゅこの note</span></span></a></h3>
-
-
-<h3 class="font_2 link" style="font-size: 20px;"><a href="https://www.qraft.info" target="_blank" rel="noopener"><span>QRAFT(QAJF公認Q関連グッズショップ）※QAJF応援者であるQAnonさんのショップ</span></a></h3>
-					
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://ameblo.jp/qajf/" target="_blank" rel="noopener"><span>NAO 世界を救うBlog</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/arbusqlar" target="_blank" rel="noopener"><span>アーバスＱラーnote</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/tokyojapanf1" target="_blank" rel="noopener"><span>TokyoJapanF1note</span></a></h3>
