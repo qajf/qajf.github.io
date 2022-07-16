@@ -65,6 +65,22 @@ image: /assets/img/map.png
 
 千 葉： <a href="mailto:qajf.chiba@gmail.com" target="_self">qajf.chiba@gmail.com</a>
 
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+qajf.github.io/
+in
+main
+
 愛知・静 岡： <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
 大 阪： <a href="mailto:qajf.kinki@gmail.com" target="_self">qajf.kinki@gmail.com</a>
@@ -135,9 +151,10 @@ Qapital東京 QT meet up
    <p>【うちわ裏面】</p>
 <img src="images/utiwaura.jpg">
 
-配ってみたところ、とても反応がよく、これで少しでも、マスクをしている子どもたちが少なくなり、コロナをぶっ飛ばせたらと思います。
-ただ、全国の方達に配るにはとても枚数が少なく、ご希望される方もいらっしゃるかと思い、メーカーと担当者が交渉してくださって、同じデーターで団扇を作成できることになりました。
-別途費用はかかってしまいますが、もし、ご希望される方がいらっしゃったら、下記のご注文フォームからご注文ください🙏
+<p>配ってみたところ、とても反応がよく、これで少しでも、マスクをしている子どもたちが少なくなり、コロナをぶっ飛ばせたらと思います。<br/>
+ただ、全国の方達に配るにはとても枚数が少なく、ご希望される方もいらっしゃるかと思い、メーカーと担当者が交渉してくださって、同じデーターで団扇を作成できることになりました。<br/>
+別途費用はかかってしまいますが、もし、ご希望される方がいらっしゃったら、下記のご注文フォームからご注文ください🙏<br/>
+   </p>
 
    <p>【料金表】</p>
 <img src="images/ryoukin.jpg">
