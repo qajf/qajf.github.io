@@ -409,10 +409,14 @@ a:hover {
   margin-bottom:50px;
 }
 
-/
+#utiwa img {
+	max-width:50%
+}
     
  @media screen and (max-width:480px){
-	 
+#utiwa img {
+	max-width:100%
+}	 
 	 
 
 .postcard{flex-direction:column;}
