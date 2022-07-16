@@ -123,21 +123,22 @@ Qapital東京 QT meet up
 
 ※誹謗中傷・悪口・愚痴・いちゃもん・嫌がらせをするような方のご参加はお断りさせて頂いております。過去には味方を装って参加し個人情報を抜き取った工作員もいました。初対面の方に心を許して自分のことを話しすぎないよう 参加者の皆さまは十分におきをつけてご参加ください。工作員はいい人のふりをして近づいてきます。
 
+<div id="utiwa">
 🌻☀️お知らせ☀️🌻
 うちわの詳細ですが今年、QAJFでは『夏はあっついぞ』という団扇を作成いたしました。
 
 【うちわ表面】
-<img src="images/utiwaomote.jpg" style="max-width:50%;">
+<img src="images/utiwaomote.jpg">
 
 【うちわ裏面】
-<img src="images/utiwaura.jpg" style="max-width:50%;">
+<img src="images/utiwaura.jpg">
 
 配ってみたところ、とても反応がよく、これで少しでも、マスクをしている子どもたちが少なくなり、コロナをぶっ飛ばせたらと思います。
 ただ、全国の方達に配るにはとても枚数が少なく、ご希望される方もいらっしゃるかと思い、メーカーと担当者が交渉してくださって、同じデーターで団扇を作成できることになりました。
 別途費用はかかってしまいますが、もし、ご希望される方がいらっしゃったら、下記のご注文フォームからご注文ください🙏
 
 【料金表】
-<img src="images/ryoukin.jpg" style="max-width:100%;">
+<img src="images/ryoukin.jpg">
 
 注文フォーム：<a href="https://www.uchiwa.biz/order/" target="_blank">https://www.uchiwa.biz/order/</a> 
 納  期：任意
@@ -156,6 +157,7 @@ Qapital東京 QT meet up
 
 ※また市販のうちわ作成キットでも、作れますので、そちらもお試しください🙏
 
+   </div>
 
 
 ## Q散歩のご案内
