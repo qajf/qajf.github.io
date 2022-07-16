@@ -65,22 +65,6 @@ image: /assets/img/map.png
 
 千 葉： <a href="mailto:qajf.chiba@gmail.com" target="_self">qajf.chiba@gmail.com</a>
 
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-qajf.github.io/
-in
-main
-
 愛知・静 岡： <a href="mailto:qajf.sizuoka@gmail.com" target="_self">qajf.sizuoka@gmail.com</a>
 
 大 阪： <a href="mailto:qajf.kinki@gmail.com" target="_self">qajf.kinki@gmail.com</a>
@@ -159,15 +143,16 @@ Qapital東京 QT meet up
    <p>【料金表】</p>
 <img src="images/ryoukin.jpg">
 
-注文フォーム：<a href="https://www.uchiwa.biz/order/" target="_blank">https://www.uchiwa.biz/order/</a> 
-納  期：任意
-商品種類：コンパクトサイズ
-注文枚数：100枚～
-骨  色：任意
-色  数：表：4色／裏：4色
-印刷DATA：データ入稿／入稿メディア：その他
-支払方法：振込or着払い
-備  考：『その他連絡事項質問』にて『夏はあっついぞ』データ使用希望と記入願います🙏
+<p>注文フォーム：<a href="https://www.uchiwa.biz/order/" target="_blank">https://www.uchiwa.biz/order/</a> <br/>
+納  期：任意<br/>
+商品種類：コンパクトサイズ<br/>
+注文枚数：100枚～<br/>
+骨  色：任意<br/>
+色  数：表：4色／裏：4色<br/>
+印刷DATA：データ入稿／入稿メディア：その他<br/>
+支払方法：振込or着払い<br/>
+備  考：『その他連絡事項質問』にて『夏はあっついぞ』データ使用希望と記入願います🙏<br/>
+    </p>    
 
 うちわ一番HP：<a href="https://www.uchiwa.biz/" target="_blank">https://www.uchiwa.biz/</a>
 
