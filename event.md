@@ -127,10 +127,10 @@ Qapital東京 QT meet up
 うちわの詳細ですが今年、QAJFでは『夏はあっついぞ』という団扇を作成いたしました。
 
 【うちわ表面】
-<img src="images/utiwaomote.jpg" style="max-width:100%;">
+<img src="images/utiwaomote.jpg" style="max-width:50%;">
 
 【うちわ裏面】
-<img src="images/utiwaura.jpg" style="max-width:100%;">
+<img src="images/utiwaura.jpg" style="max-width:50%;">
 
 配ってみたところ、とても反応がよく、これで少しでも、マスクをしている子どもたちが少なくなり、コロナをぶっ飛ばせたらと思います。
 ただ、全国の方達に配るにはとても枚数が少なく、ご希望される方もいらっしゃるかと思い、メーカーと担当者が交渉してくださって、同じデーターで団扇を作成できることになりました。
