@@ -87,7 +87,7 @@ Qapital東京 QT meet up
 
 終了しました.
 <span style="color:#ddd;">
-7月17日（日) 12時～15時 北区　 <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
+7月17日（日) 12時～15時 北区　 
 </span>
 
 ## Qうちわ配りのご案内
