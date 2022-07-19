@@ -85,7 +85,10 @@ image: /assets/img/map.png
 
 Qapital東京 QT meet up
 
-7月17日（<font color="#ff0000">日</font>) 12時～15時 北区　&#128231; <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
+終了しました.
+<font color:#ddd;>
+7月17日（日) 12時～15時 北区　 <a href="mailto:jgd.tokyo@gmail.com" target="_self">jgd.tokyo@gmail.com</a>
+</font>
 
 ## Qうちわ配りのご案内
 <img src="images/1qfan.jpg" style="max-width:100%;margin-bottom:50px;">
