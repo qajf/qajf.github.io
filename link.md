@@ -4,6 +4,8 @@ layout: sub
 
 # Link
 ## 隊員たちの活動
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://ameblo.jp/banana17wwg1wga/" target="_blank" rel="noopener"><span>banana17wwg1wgaのブログ</span></a></h3>
+<h3 class="font_2 link" style="font-size: 20px;"><a href="https://note.com/banana17wwg1wga/")" target="_blank" rel="noopener"><span>バナナ note</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://prayermewan.substack.com/" target="_blank" rel="noopener"><span>prayermewan’s Newsletter</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://ameblo.jp/yoake-mousugu/" target="_blank" rel="noopener"><span>アベリアのブログ</span></a></h3>
 <h3 class="font_2 link" style="font-size: 20px;"><a href="https://mamaqajf.hateblo.jp/" target="_blank" rel="noopener"><span>EriQmapJapan Fan！！！</span></a></h3>
