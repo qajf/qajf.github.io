@@ -113,11 +113,9 @@ Qapital東京 QT meet up
 
 終了しました.
 <span style="color:#ddd;">
-### 東京
+東京
 日時:7/24(日) 12:00 集合
-
 場所:JR御茶ノ水駅お茶の水橋口改札
-
 </span>
 
 ### 大阪
